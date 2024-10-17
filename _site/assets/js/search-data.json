@@ -1,107 +1,401 @@
 {"0": {
-    "doc": "Week 1",
-    "title": "Week 1",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-1/",
+    "doc": "Week 1 - Intro",
+    "title": "Plan",
+    "content": "Data activity . Syllabus Introduction . What is data . What is metadata . ",
+    "url": "/week-1-intro/#plan",
     
-    "relUrl": "/week-1/"
+    "relUrl": "/week-1-intro/#plan"
   },"1": {
-    "doc": "Week 10",
-    "title": "Week 10",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-10/",
+    "doc": "Week 1 - Intro",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-1-intro/#pre-reading",
     
-    "relUrl": "/week-10/"
+    "relUrl": "/week-1-intro/#pre-reading"
   },"2": {
-    "doc": "Week 11",
-    "title": "Week 11",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-11/",
+    "doc": "Week 1 - Intro",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-1-intro/#pre-work",
     
-    "relUrl": "/week-11/"
+    "relUrl": "/week-1-intro/#pre-work"
   },"3": {
-    "doc": "Week 12",
-    "title": "Week 12",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-12/",
+    "doc": "Week 1 - Intro",
+    "title": "Week 1 - Intro",
+    "content": " ",
+    "url": "/week-1-intro/",
     
-    "relUrl": "/week-12/"
+    "relUrl": "/week-1-intro/"
   },"4": {
-    "doc": "Week 13",
-    "title": "Week 13",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-13/",
+    "doc": "Week 10 - Identification",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-10-identification/#plan",
     
-    "relUrl": "/week-13/"
+    "relUrl": "/week-10-identification/#plan"
   },"5": {
-    "doc": "Week 14",
-    "title": "Week 14",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-14/",
+    "doc": "Week 10 - Identification",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-10-identification/#pre-reading",
     
-    "relUrl": "/week-14/"
+    "relUrl": "/week-10-identification/#pre-reading"
   },"6": {
-    "doc": "Week 15",
-    "title": "Week 15",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-15/",
+    "doc": "Week 10 - Identification",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-10-identification/#pre-work",
     
-    "relUrl": "/week-15/"
+    "relUrl": "/week-10-identification/#pre-work"
   },"7": {
-    "doc": "Week 2",
-    "title": "Week 2",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-2/",
+    "doc": "Week 10 - Identification",
+    "title": "Week 10 - Identification",
+    "content": " ",
+    "url": "/week-10-identification/",
     
-    "relUrl": "/week-2/"
+    "relUrl": "/week-10-identification/"
   },"8": {
-    "doc": "Week 3",
-    "title": "Week 3",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-3/",
+    "doc": "Week 11 - Description",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-11-description/#plan",
     
-    "relUrl": "/week-3/"
+    "relUrl": "/week-11-description/#plan"
   },"9": {
-    "doc": "Week 4",
-    "title": "Week 4",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-4/",
+    "doc": "Week 11 - Description",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-11-description/#pre-reading",
     
-    "relUrl": "/week-4/"
+    "relUrl": "/week-11-description/#pre-reading"
   },"10": {
-    "doc": "Week 5",
-    "title": "Week 5",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-5/",
+    "doc": "Week 11 - Description",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-11-description/#pre-work",
     
-    "relUrl": "/week-5/"
+    "relUrl": "/week-11-description/#pre-work"
   },"11": {
-    "doc": "Week 6",
-    "title": "Week 6",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-6/",
+    "doc": "Week 11 - Description",
+    "title": "Week 11 - Description",
+    "content": " ",
+    "url": "/week-11-description/",
     
-    "relUrl": "/week-6/"
+    "relUrl": "/week-11-description/"
   },"12": {
-    "doc": "Week 7",
-    "title": "Week 7",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-7/",
+    "doc": "Week 12 - Collection",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-12-collection/#plan",
     
-    "relUrl": "/week-7/"
+    "relUrl": "/week-12-collection/#plan"
   },"13": {
-    "doc": "Week 8",
-    "title": "Week 8",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-8/",
+    "doc": "Week 12 - Collection",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-12-collection/#pre-reading",
     
-    "relUrl": "/week-8/"
+    "relUrl": "/week-12-collection/#pre-reading"
   },"14": {
-    "doc": "Spring Break",
-    "title": "Spring Break",
-    "content": "This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at jekyllrb.com . You can find the source code for Minima at GitHub: jekyll / minima . You can find the source code for Jekyll at GitHub: jekyll / jekyll . ",
-    "url": "/week-9/",
+    "doc": "Week 12 - Collection",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-12-collection/#pre-work",
     
-    "relUrl": "/week-9/"
+    "relUrl": "/week-12-collection/#pre-work"
+  },"15": {
+    "doc": "Week 12 - Collection",
+    "title": "Week 12 - Collection",
+    "content": " ",
+    "url": "/week-12-collection/",
+    
+    "relUrl": "/week-12-collection/"
+  },"16": {
+    "doc": "Week 13 - Cleaning",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-13-cleaning/#plan",
+    
+    "relUrl": "/week-13-cleaning/#plan"
+  },"17": {
+    "doc": "Week 13 - Cleaning",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-13-cleaning/#pre-reading",
+    
+    "relUrl": "/week-13-cleaning/#pre-reading"
+  },"18": {
+    "doc": "Week 13 - Cleaning",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-13-cleaning/#pre-work",
+    
+    "relUrl": "/week-13-cleaning/#pre-work"
+  },"19": {
+    "doc": "Week 13 - Cleaning",
+    "title": "Week 13 - Cleaning",
+    "content": " ",
+    "url": "/week-13-cleaning/",
+    
+    "relUrl": "/week-13-cleaning/"
+  },"20": {
+    "doc": "Week 14 - Analysis",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-14-analysis/#plan",
+    
+    "relUrl": "/week-14-analysis/#plan"
+  },"21": {
+    "doc": "Week 14 - Analysis",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-14-analysis/#pre-reading",
+    
+    "relUrl": "/week-14-analysis/#pre-reading"
+  },"22": {
+    "doc": "Week 14 - Analysis",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-14-analysis/#pre-work",
+    
+    "relUrl": "/week-14-analysis/#pre-work"
+  },"23": {
+    "doc": "Week 14 - Analysis",
+    "title": "Week 14 - Analysis",
+    "content": " ",
+    "url": "/week-14-analysis/",
+    
+    "relUrl": "/week-14-analysis/"
+  },"24": {
+    "doc": "Week 15 - Distribution",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-15-distribution/#plan",
+    
+    "relUrl": "/week-15-distribution/#plan"
+  },"25": {
+    "doc": "Week 15 - Distribution",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-15-distribution/#pre-reading",
+    
+    "relUrl": "/week-15-distribution/#pre-reading"
+  },"26": {
+    "doc": "Week 15 - Distribution",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-15-distribution/#pre-work",
+    
+    "relUrl": "/week-15-distribution/#pre-work"
+  },"27": {
+    "doc": "Week 15 - Distribution",
+    "title": "Week 15 - Distribution",
+    "content": " ",
+    "url": "/week-15-distribution/",
+    
+    "relUrl": "/week-15-distribution/"
+  },"28": {
+    "doc": "Week 2 - Identification",
+    "title": "Plan",
+    "content": "Activity - is it data or not? why or why not? A definition What counts as data . Where to find it . ",
+    "url": "/week-2-identification/#plan",
+    
+    "relUrl": "/week-2-identification/#plan"
+  },"29": {
+    "doc": "Week 2 - Identification",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-2-identification/#pre-reading",
+    
+    "relUrl": "/week-2-identification/#pre-reading"
+  },"30": {
+    "doc": "Week 2 - Identification",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-2-identification/#pre-work",
+    
+    "relUrl": "/week-2-identification/#pre-work"
+  },"31": {
+    "doc": "Week 2 - Identification",
+    "title": "Week 2 - Identification",
+    "content": " ",
+    "url": "/week-2-identification/",
+    
+    "relUrl": "/week-2-identification/"
+  },"32": {
+    "doc": "Week 3 - Description",
+    "title": "Plan",
+    "content": "Qualitative analysis . Formats . Metadata standards . ",
+    "url": "/week-3-description/#plan",
+    
+    "relUrl": "/week-3-description/#plan"
+  },"33": {
+    "doc": "Week 3 - Description",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-3-description/#pre-reading",
+    
+    "relUrl": "/week-3-description/#pre-reading"
+  },"34": {
+    "doc": "Week 3 - Description",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-3-description/#pre-work",
+    
+    "relUrl": "/week-3-description/#pre-work"
+  },"35": {
+    "doc": "Week 3 - Description",
+    "title": "Week 3 - Description",
+    "content": " ",
+    "url": "/week-3-description/",
+    
+    "relUrl": "/week-3-description/"
+  },"36": {
+    "doc": "Week 4 - Collection",
+    "title": "Plan",
+    "content": "Web Scraping - tool for it . ",
+    "url": "/week-4-collection/#plan",
+    
+    "relUrl": "/week-4-collection/#plan"
+  },"37": {
+    "doc": "Week 4 - Collection",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-4-collection/#pre-reading",
+    
+    "relUrl": "/week-4-collection/#pre-reading"
+  },"38": {
+    "doc": "Week 4 - Collection",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-4-collection/#pre-work",
+    
+    "relUrl": "/week-4-collection/#pre-work"
+  },"39": {
+    "doc": "Week 4 - Collection",
+    "title": "Week 4 - Collection",
+    "content": " ",
+    "url": "/week-4-collection/",
+    
+    "relUrl": "/week-4-collection/"
+  },"40": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Plan",
+    "content": "What is it Google Open Refine . ",
+    "url": "/week-5-cleaning/#plan",
+    
+    "relUrl": "/week-5-cleaning/#plan"
+  },"41": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-5-cleaning/#pre-reading",
+    
+    "relUrl": "/week-5-cleaning/#pre-reading"
+  },"42": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-5-cleaning/#pre-work",
+    
+    "relUrl": "/week-5-cleaning/#pre-work"
+  },"43": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Week 5 - Cleaning",
+    "content": " ",
+    "url": "/week-5-cleaning/",
+    
+    "relUrl": "/week-5-cleaning/"
+  },"44": {
+    "doc": "Week 6 - Analysis",
+    "title": "Plan",
+    "content": "What Microsoft Power Bi . ",
+    "url": "/week-6-analysis/#plan",
+    
+    "relUrl": "/week-6-analysis/#plan"
+  },"45": {
+    "doc": "Week 6 - Analysis",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-6-analysis/#pre-reading",
+    
+    "relUrl": "/week-6-analysis/#pre-reading"
+  },"46": {
+    "doc": "Week 6 - Analysis",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-6-analysis/#pre-work",
+    
+    "relUrl": "/week-6-analysis/#pre-work"
+  },"47": {
+    "doc": "Week 6 - Analysis",
+    "title": "Week 6 - Analysis",
+    "content": " ",
+    "url": "/week-6-analysis/",
+    
+    "relUrl": "/week-6-analysis/"
+  },"48": {
+    "doc": "Week 7 - Distribution",
+    "title": "Plan",
+    "content": "CSV and GitHub . ",
+    "url": "/week-7-distribution/#plan",
+    
+    "relUrl": "/week-7-distribution/#plan"
+  },"49": {
+    "doc": "Week 7 - Distribution",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-7-distribution/#pre-reading",
+    
+    "relUrl": "/week-7-distribution/#pre-reading"
+  },"50": {
+    "doc": "Week 7 - Distribution",
+    "title": "Pre-work",
+    "content": " ",
+    "url": "/week-7-distribution/#pre-work",
+    
+    "relUrl": "/week-7-distribution/#pre-work"
+  },"51": {
+    "doc": "Week 7 - Distribution",
+    "title": "Week 7 - Distribution",
+    "content": " ",
+    "url": "/week-7-distribution/",
+    
+    "relUrl": "/week-7-distribution/"
+  },"52": {
+    "doc": "Week 8 - Project Planning",
+    "title": "Plan",
+    "content": " ",
+    "url": "/week-8-project-planning/#plan",
+    
+    "relUrl": "/week-8-project-planning/#plan"
+  },"53": {
+    "doc": "Week 8 - Project Planning",
+    "title": "Pre-reading",
+    "content": " ",
+    "url": "/week-8-project-planning/#pre-reading",
+    
+    "relUrl": "/week-8-project-planning/#pre-reading"
+  },"54": {
+    "doc": "Week 8 - Project Planning",
+    "title": "Pre-work",
+    "content": "What will it be . Who will do what . ",
+    "url": "/week-8-project-planning/#pre-work",
+    
+    "relUrl": "/week-8-project-planning/#pre-work"
+  },"55": {
+    "doc": "Week 8 - Project Planning",
+    "title": "Week 8 - Project Planning",
+    "content": " ",
+    "url": "/week-8-project-planning/",
+    
+    "relUrl": "/week-8-project-planning/"
+  },"56": {
+    "doc": "Week 9 - Spring Break",
+    "title": "Week 9 - Spring Break",
+    "content": " ",
+    "url": "/week-9-spring-break/",
+    
+    "relUrl": "/week-9-spring-break/"
   }
 }
