@@ -4,17 +4,53 @@ title: Week 1 - Intro
 permalink: /week-1-intro/
 nav_order: 11
 ---
-## Plan
 
-Data activity
+## Guiding Questions
 
-Syllabus Introduction
-
-What is data
-
-What is metadata
-
-## Pre-reading
+* What is data?
+* What is this course
 
 ## Pre-work
 
+(TODO: confirm readings)
+
+* https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/
+* https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/
+* https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/intro/
+
+## The Plan
+
+(TODO: confirm plan and activity)
+
+* We Data: An Icebreaking Activity
+* Discussion
+* Review syllabus
+
+### We Data: An Icebreaking Activity
+
+I want to get to know you. In the spirit of the course, your job is to make a dataset about yourselves to share back with me. You have sixty minutes in which to do so. You have to hit the following buckets. 
+
+* **Identify your data**
+    * Who are you? 
+* **Describe your data**
+    * What are you interested in describing as a part of your dataset? What are you not?
+* **Collect**
+    * Gather your data in one place.
+* **Clean**
+    * Edit the dataset so that it's in a presentable, consistent format.
+* **Analyze**
+    * What stories are in your dataset?
+* **Distribute**
+    * How will you share it back to me?
+
+Some advice:
+
+* Not everyone has to work on the same things! Divide up.
+* Use what you have.
+* Don't spend so much time talking. Do. 
+
+## Homework
+
+(TODO: confirm homework)
+
+* By the end of the week, share your dataset with me.
