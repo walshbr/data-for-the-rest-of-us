@@ -9,14 +9,13 @@ nav_order: 13
 * What is data description?
 * What are metadata standards?
 
-## Pre-reading
+## Pre-work
 
 * https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards
 * 
 
 ## Plan
-Qualitative analysis?
-
+Activity: How to put it together? 
 * Formats
     * CSV, TSV
 * Metadata and standards

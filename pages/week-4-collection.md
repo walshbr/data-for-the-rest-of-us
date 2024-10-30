@@ -6,19 +6,22 @@ nav_order: 14
 ---
 
 ## Guiding Questions
-* How do we gather materials?
+* What are tools for gathering materials?
+* What are issues in the use of these tools?
 
 
 ## Pre-work
 
+* documentation for web scraping tutorial
 
-## Plan
-Surveys
-Web Scraping
-Ethics
-Crowdsourcing
-Human Data
-Tool: web scraping
+
+## The Plan
+* Surveys
+* Web Scraping
+* Ethics
+* Crowdsourcing
+* Human Data
+* [Workshop on webscraper.io](https://webscraper.io/web-scraper-first-time-install)
 
 ## Homework
 

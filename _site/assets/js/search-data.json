@@ -245,15 +245,15 @@
     "relUrl": "/week-3-description/#guiding-questions"
   },"35": {
     "doc": "Week 3 - Description",
-    "title": "Pre-reading",
+    "title": "Pre-work",
     "content": ". | https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards | | . ",
-    "url": "/week-3-description/#pre-reading",
+    "url": "/week-3-description/#pre-work",
     
-    "relUrl": "/week-3-description/#pre-reading"
+    "relUrl": "/week-3-description/#pre-work"
   },"36": {
     "doc": "Week 3 - Description",
     "title": "Plan",
-    "content": "Qualitative analysis? . | Formats . | CSV, TSV | . | Metadata and standards . | Activity: Netflix | . | Activity: working with Excel? something else? | . ",
+    "content": "Activity: How to put it together? . | Formats . | CSV, TSV | . | Metadata and standards . | Activity: Netflix | . | Activity: working with Excel? something else? | . ",
     "url": "/week-3-description/#plan",
     
     "relUrl": "/week-3-description/#plan"
@@ -274,24 +274,24 @@
   },"39": {
     "doc": "Week 4 - Collection",
     "title": "Guiding Questions",
-    "content": ". | How do we gather materials? | . ",
+    "content": ". | What are tools for gathering materials? | What are issues in the use of these tools? | . ",
     "url": "/week-4-collection/#guiding-questions",
     
     "relUrl": "/week-4-collection/#guiding-questions"
   },"40": {
     "doc": "Week 4 - Collection",
     "title": "Pre-work",
-    "content": " ",
+    "content": ". | documentation for web scraping tutorial | . ",
     "url": "/week-4-collection/#pre-work",
     
     "relUrl": "/week-4-collection/#pre-work"
   },"41": {
     "doc": "Week 4 - Collection",
-    "title": "Plan",
-    "content": "Surveys Web Scraping Ethics Crowdsourcing Human Data Tool: web scraping . ",
-    "url": "/week-4-collection/#plan",
+    "title": "The Plan",
+    "content": ". | Surveys | Web Scraping | Ethics | Crowdsourcing | Human Data | Workshop on webscraper.io | . ",
+    "url": "/week-4-collection/#the-plan",
     
-    "relUrl": "/week-4-collection/#plan"
+    "relUrl": "/week-4-collection/#the-plan"
   },"42": {
     "doc": "Week 4 - Collection",
     "title": "Homework",
@@ -308,117 +308,124 @@
     "relUrl": "/week-4-collection/"
   },"44": {
     "doc": "Week 5 - Cleaning",
-    "title": "Plan",
-    "content": "What is it Google Open Refine . ",
-    "url": "/week-5-cleaning/#plan",
+    "title": "Guiding Questions",
+    "content": ". | What is the importance of clean, tidy data? | How do we fix problems with our data? | . ",
+    "url": "/week-5-cleaning/#guiding-questions",
     
-    "relUrl": "/week-5-cleaning/#plan"
+    "relUrl": "/week-5-cleaning/#guiding-questions"
   },"45": {
     "doc": "Week 5 - Cleaning",
-    "title": "Pre-reading",
-    "content": " ",
-    "url": "/week-5-cleaning/#pre-reading",
-    
-    "relUrl": "/week-5-cleaning/#pre-reading"
-  },"46": {
-    "doc": "Week 5 - Cleaning",
     "title": "Pre-work",
-    "content": " ",
+    "content": ". | Open Refine documentation - work through each piece of the documentation, stopping after you finish the section on reconciling. | Cleaning Data with Susan Walsh from the “Data Career Podcast” TODO: listen to this to see if it’s all useful | Optional: “Against Cleaning”, Katie Rawson and Trevor Muños | . ",
     "url": "/week-5-cleaning/#pre-work",
     
     "relUrl": "/week-5-cleaning/#pre-work"
+  },"46": {
+    "doc": "Week 5 - Cleaning",
+    "title": "The Plan",
+    "content": ". | Share your job interview question | What is cleaning and why does it matter | Cleaning by hand | Collection tied to cleaning - | Exercise in Google Open Refine | . ",
+    "url": "/week-5-cleaning/#the-plan",
+    
+    "relUrl": "/week-5-cleaning/#the-plan"
   },"47": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Homework",
+    "content": ". | By Friday have them clean up a messed up dataset | . ",
+    "url": "/week-5-cleaning/#homework",
+    
+    "relUrl": "/week-5-cleaning/#homework"
+  },"48": {
     "doc": "Week 5 - Cleaning",
     "title": "Week 5 - Cleaning",
     "content": " ",
     "url": "/week-5-cleaning/",
     
     "relUrl": "/week-5-cleaning/"
-  },"48": {
+  },"49": {
     "doc": "Week 6 - Analysis",
     "title": "Plan",
     "content": "What Microsoft Power Bi . ",
     "url": "/week-6-analysis/#plan",
     
     "relUrl": "/week-6-analysis/#plan"
-  },"49": {
+  },"50": {
     "doc": "Week 6 - Analysis",
     "title": "Pre-reading",
     "content": " ",
     "url": "/week-6-analysis/#pre-reading",
     
     "relUrl": "/week-6-analysis/#pre-reading"
-  },"50": {
+  },"51": {
     "doc": "Week 6 - Analysis",
     "title": "Pre-work",
     "content": " ",
     "url": "/week-6-analysis/#pre-work",
     
     "relUrl": "/week-6-analysis/#pre-work"
-  },"51": {
+  },"52": {
     "doc": "Week 6 - Analysis",
     "title": "Week 6 - Analysis",
     "content": " ",
     "url": "/week-6-analysis/",
     
     "relUrl": "/week-6-analysis/"
-  },"52": {
+  },"53": {
     "doc": "Week 7 - Distribution",
     "title": "Plan",
     "content": "CSV and GitHub . ",
     "url": "/week-7-distribution/#plan",
     
     "relUrl": "/week-7-distribution/#plan"
-  },"53": {
+  },"54": {
     "doc": "Week 7 - Distribution",
     "title": "Pre-reading",
     "content": " ",
     "url": "/week-7-distribution/#pre-reading",
     
     "relUrl": "/week-7-distribution/#pre-reading"
-  },"54": {
+  },"55": {
     "doc": "Week 7 - Distribution",
     "title": "Pre-work",
     "content": " ",
     "url": "/week-7-distribution/#pre-work",
     
     "relUrl": "/week-7-distribution/#pre-work"
-  },"55": {
+  },"56": {
     "doc": "Week 7 - Distribution",
     "title": "Week 7 - Distribution",
     "content": " ",
     "url": "/week-7-distribution/",
     
     "relUrl": "/week-7-distribution/"
-  },"56": {
+  },"57": {
     "doc": "Week 8 - Project Planning",
     "title": "Plan",
     "content": " ",
     "url": "/week-8-project-planning/#plan",
     
     "relUrl": "/week-8-project-planning/#plan"
-  },"57": {
+  },"58": {
     "doc": "Week 8 - Project Planning",
     "title": "Pre-reading",
     "content": " ",
     "url": "/week-8-project-planning/#pre-reading",
     
     "relUrl": "/week-8-project-planning/#pre-reading"
-  },"58": {
+  },"59": {
     "doc": "Week 8 - Project Planning",
     "title": "Pre-work",
     "content": "What will it be . Who will do what . ",
     "url": "/week-8-project-planning/#pre-work",
     
     "relUrl": "/week-8-project-planning/#pre-work"
-  },"59": {
+  },"60": {
     "doc": "Week 8 - Project Planning",
     "title": "Week 8 - Project Planning",
     "content": " ",
     "url": "/week-8-project-planning/",
     
     "relUrl": "/week-8-project-planning/"
-  },"60": {
+  },"61": {
     "doc": "Week 9 - Spring Break",
     "title": "Week 9 - Spring Break",
     "content": " ",
