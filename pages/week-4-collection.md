@@ -6,24 +6,27 @@ nav_order: 14
 ---
 
 ## Guiding Questions
+
 * What are tools for gathering materials?
 * What are issues in the use of these tools?
 
-
 ## Pre-work
 
-* documentation for web scraping tutorial
+* [Data Collection](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dctopic.html
+* Install and work through [webscraper.io documentation](https://webscraper.io/how-to-videos)
 
 
 ## The Plan
+
 * Surveys
 * Web Scraping
 * Ethics
 * Crowdsourcing
 * Human Data
-* [Workshop on webscraper.io](https://webscraper.io/web-scraper-first-time-install)
+* Workshop on webscraper.io
 
 ## Homework
 
+* Scrape a thing by Friday
 
 

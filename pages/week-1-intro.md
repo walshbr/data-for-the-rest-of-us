@@ -12,15 +12,10 @@ nav_order: 11
 
 ## Pre-work
 
-(TODO: confirm readings)
-
-* https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/
-* https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/
-* https://archive.mith.umd.edu/dhcuration-guide/guide.dhcuration.org/intro/
+* [Big? Smart? Clean? Messy? Data in the Humanities](https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
+* [Humanities Data: A Necessary Contradiction](https://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
 ## The Plan
-
-(TODO: confirm plan and activity)
 
 * We Data: An Icebreaking Activity
 * Discussion
@@ -50,7 +45,5 @@ Some advice:
 * Don't spend so much time talking. Do. 
 
 ## Homework
-
-(TODO: confirm homework)
 
 * By the end of the week, share your dataset with me.

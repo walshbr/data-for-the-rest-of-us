@@ -9,16 +9,15 @@ nav_order: 12
 
 * What counts?
 * Where can you find it?
-* How do you tell what is missing
+* How do you tell what is missing?
 
 ## Pre-work
 
-* Reading about data definitions
+* [Wikipedia Definition of Data](https://en.wikipedia.org/wiki/Data)
 * Explore
-    * https://data.gov/
-    * https://www.bfi.org.uk/industry-data-insights
-    * https://datasetsearch.research.google.com/
-* short reading about what is not out there?
+    * [US Government's Open Data](https://data.gov/)
+    * [Google Datasets](https://datasetsearch.research.google.com/)
+* [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets)
 
 ## Plan
 * A definition

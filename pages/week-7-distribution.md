@@ -5,7 +5,9 @@ permalink: /week-7-distribution/
 nav_order: 17
 ---
 ## Plan
-CSV and GitHub
+
+
 ## Pre-reading
+GitHub
 
 ## Pre-work

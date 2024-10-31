@@ -6,13 +6,14 @@ nav_order: 13
 ---
 
 ## Guiding Questions
-* What is data description?
+
+* How do we describe data?
 * What are metadata standards?
 
 ## Pre-work
 
-* https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards
-* 
+* [Describing Data LibGuide](https://guides.lib.uci.edu/datamanagement/describe)
+* [What are Metadata Standards?](https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards)
 
 ## Plan
 Activity: How to put it together? 
