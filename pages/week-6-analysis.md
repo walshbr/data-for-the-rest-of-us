@@ -3,6 +3,7 @@ layout: page
 title: Week 6 - Analysis
 permalink: /week-6-analysis/
 nav_order: 16
+date: 2025-02-18
 ---
 
 

@@ -3,6 +3,7 @@ layout: page
 title: Week 2 - Identification
 permalink: /week-2-identification/
 nav_order: 12
+date: 2025-01-21
 ---
 
 ## Guiding Questions
@@ -20,6 +21,7 @@ nav_order: 12
 * [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets)
 
 ## Plan
+
 * A definition
 * What counts as data
     * Activity: Data or not?
@@ -27,4 +29,5 @@ nav_order: 12
     * Activity: What don't you see?
 
 ## Homework
+
 * Brainstorm a list of three datasets that don't seem to exist.

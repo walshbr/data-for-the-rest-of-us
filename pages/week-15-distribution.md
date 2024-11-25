@@ -3,6 +3,7 @@ layout: page
 title: Week 15 - Distribution
 permalink: /week-15-distribution/
 nav_order: 25
+date: 2025-04-22
 ---
 
 ## Plan

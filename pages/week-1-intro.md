@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Week 1 - Intro
+title: Week 1 - Introduction
 permalink: /week-1-intro/
 nav_order: 11
+date: 2025-01-14
 ---
 
 ## Guiding Questions
@@ -21,6 +22,7 @@ nav_order: 11
 * Discussion
 * Review syllabus
 
+---
 ### We Data: An Icebreaking Activity
 
 I want to get to know you. In the spirit of the course, your job is to make a dataset about yourselves to share back with me. You have sixty minutes in which to do so. You have to hit the following buckets. 
@@ -38,12 +40,13 @@ I want to get to know you. In the spirit of the course, your job is to make a da
 * **Distribute**
     * How will you share it back to me?
 
-Some advice:
+**Some advice**
 
 * Not everyone has to work on the same things! Divide up.
 * Use what you have.
 * Don't spend so much time talking. Do. 
 
+---
 ## Homework
 
 * By the end of the week, share your dataset with me.
