@@ -19,11 +19,21 @@ date: 2025-02-11
 
 ## The Plan
 
+* Introduction: On Cleaning
+* Activity: Workshop on Google Open Refine
+
+---
+## Introduction: On Cleaning
+
+Slides Here
 * Share your job interview question
 * What is cleaning and why does it matter
 * Cleaning by hand
-* Collection tied to cleaning - 
-* Exercise in Google Open Refine
+
+---
+Activity: Workshop on Google Open Refine
+
+Use humanities materials?
 
 ## Homework
 

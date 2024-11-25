@@ -4,12 +4,14 @@ title: Logistics
 permalink: /logistics/
 nav_order: 1
 ---
-Where
+## Specifications grading
 
-Specs grading
+## Assignments
 
-Assignments
+Your grade will be made up of two components:
+* Each week has a small assignment due by 9:00AM the following.
+* 
 
-Plagiarism
+## Attendance
 
-Accommodations
+You are allowed one absence in the course. Please let me know ASAP if you have issues. 

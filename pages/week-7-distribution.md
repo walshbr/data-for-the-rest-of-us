@@ -5,10 +5,26 @@ permalink: /week-7-distribution/
 nav_order: 17
 date: 2025-02-25
 ---
-## Plan
 
-
-## Pre-reading
-GitHub
+## Guiding Questions
 
 ## Pre-work
+
+* 
+
+## Plan
+
+* Introduction: Publishing your Work
+* Activity: Workshop on GitHub
+
+---
+## Introduction: Publishing your Work
+
+---
+## Activity: Workshop on GitHub
+
+---
+## Homework
+
+* Meet as a group to discuss potential project ideas. You will pitch three potential ones to a group of judges next time.
+* By Friday at 9AM something with GitHub?

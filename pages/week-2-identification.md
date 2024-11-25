@@ -18,16 +18,29 @@ date: 2025-01-21
 * Explore
     * [US Government's Open Data](https://data.gov/)
     * [Google Datasets](https://datasetsearch.research.google.com/)
+    * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets?tab=readme-ov-file#complexnetworks)
 * [On Missing Data Sets](https://github.com/MimiOnuoha/missing-datasets)
 
 ## Plan
 
-* A definition
-* What counts as data
-    * Activity: Data or not?
-* Where to find it
-    * Activity: What don't you see?
+* Introduction: "Data: A Definition" 
+* Activity: Data or not?
+    * What counts?
+* Activity: What don't you see?
+    * What don't you see?
+
+---
+## Introduction: "Data: A Definition"
+
+Slides here
+---
+## Data or not?
+
+---
+### What don't you see?
+
+---
 
 ## Homework
 
-* Brainstorm a list of three datasets that don't seem to exist.
+* Brainstorm a list of three datasets that don't seem to exist. Send it to me by Friday at 9:00 AM

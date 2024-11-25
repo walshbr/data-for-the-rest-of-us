@@ -17,12 +17,26 @@ date: 2025-01-28
 * [What are Metadata Standards?](https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards)
 
 ## Plan
-Activity: How to describe data? (different groups describe the same thing and we compare?)
-* Formats
-    * CSV, TSV
-* Metadata and standards
-    * Activity: Netflix
-* Activity: working with Excel? something else?
 
+* Introduction: Formats and Standards
+* Activity: Organizing
+* Activity: What is it? Who says? 
+
+---
+## Introduction: Formats and Standards
+Slides go here
+
+---
+## Activity: Organizing
+
+* Metadata: have them describe something? a book? By hand?
+
+---
+## Activity: What is it? Who says? 
+Standards
+(different groups describe the same thing and we compare?)
+
+---
 ## Homework
 
+* Select a category of culture from your life and create a dataset from it. It should have at least 10 objects with five metadata categories. Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.

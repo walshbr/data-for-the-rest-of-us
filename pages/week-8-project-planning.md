@@ -5,9 +5,11 @@ permalink: /week-8-project-planning/
 nav_order: 18
 date: 2025-03-04
 ---
-## Plan
+## Guiding Questions
 
-## Pre-reading
+* 
+
+## Plan
 
 ## Pre-work
 What will it be

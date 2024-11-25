@@ -13,19 +13,28 @@ date: 2025-02-04
 
 ## Pre-work
 
-* [Data Collection](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dctopic.html
+* [Data Collection](https://ori.hhs.gov/education/products/n_illinois_u/datamanagement/dctopic.html)
 * Install and work through [webscraper.io documentation](https://webscraper.io/how-to-videos)
 
 
 ## The Plan
 
+* Introduction: On Gathering
+* Activity: Workshop on webscraper.io
+
+---
+## Introduction: On Gathering
+
+Slides go here. Cover: 
 * Surveys
 * Web Scraping
-* Ethics
+* Ethics and Human Data
 * Crowdsourcing
-* Human Data
-* Workshop on webscraper.io
 
+---
+## Activity: Workshop on webscraper.io
+
+---
 ## Homework
 
 * Scrape a thing by Friday
