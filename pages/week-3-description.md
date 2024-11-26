@@ -39,4 +39,4 @@ Standards
 ---
 ## Homework
 
-* Select a category of culture from your life and create a dataset from it. It should have at least 10 objects with five metadata categories. Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.
+* Select a culture category (film, books, music) from your life and create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.

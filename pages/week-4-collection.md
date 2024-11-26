@@ -26,6 +26,7 @@ date: 2025-02-04
 ## Introduction: On Gathering
 
 Slides go here. Cover: 
+
 * Surveys
 * Web Scraping
 * Ethics and Human Data
@@ -34,9 +35,11 @@ Slides go here. Cover:
 ---
 ## Activity: Workshop on webscraper.io
 
+* Take them through scraping the Scholars' Lab website. 
+* Show them how to export a webpage
+
 ---
 ## Homework
 
-* Scrape a thing by Friday
-
-
+* Practice scraping! Try using webscraper.io to scrape this [simple countries of the world example](https://www.scrapethissite.com/pages/simple/). By Friday at 9:00 AM, send me a CSV of your results. 
+* Identify three other sites that contain data you might be interested in collecting. Think especially about different kinds of content, especially those related to arts, culture, and the humanities.

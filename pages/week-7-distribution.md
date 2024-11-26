@@ -8,6 +8,9 @@ date: 2025-02-25
 
 ## Guiding Questions
 
+* How do you share your work?
+* How do you do so in a form that is usable for others?
+
 ## Pre-work
 
 * 
@@ -19,6 +22,8 @@ date: 2025-02-25
 
 ---
 ## Introduction: Publishing your Work
+
+Platforms and documentation
 
 ---
 ## Activity: Workshop on GitHub

@@ -31,10 +31,10 @@ Slides Here
 * Cleaning by hand
 
 ---
-Activity: Workshop on Google Open Refine
+## Activity: Workshop on Google Open Refine
 
-Use humanities materials?
+Look at [this dataset](https://www.kaggle.com/datasets/snehangsude/audible-dataset?resource=download&select=audible_cleaned.csv) of audiobook data. Compare the uncleaned version and the cleaned one. Then use Open Refine to get from one to the other. 
 
 ## Homework
 
-* By Friday have them clean up a messed up dataset
+* Work through [this lesson](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) on The Programming Historian. Send a screenshot of your successful results along by Friday at 9:00 AM.

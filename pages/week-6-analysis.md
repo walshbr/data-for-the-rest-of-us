@@ -18,7 +18,7 @@ date: 2025-02-18
 ## Plan
 
 Introduction: Qualitative vs Quantitative Analysis
-Activity: Workshop on Microsoft Power Bi
+Activity: Workshop on Voyant
 
 ---
 ### Introduction: Qualitative vs Quantitative Analysis
@@ -27,7 +27,15 @@ Slides go here
 ---
 ### Activity: Workshop on Microsoft Power Bi
 
+Maybe go with Voyant instead
+
 
 ---
 ## Homework
 * Use the tools at your disposal to tell a story.
+
+Potential Resources
+
+https://www.mayainsights.com/blog/power-bi-text-analytics/#:~:text=Apply%20Text%20Analytics%20Functions%3A%20If,the%20language%20of%20the%20text.
+
+https://learn.microsoft.com/en-us/power-bi/fundamentals/

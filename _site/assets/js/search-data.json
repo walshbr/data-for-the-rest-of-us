@@ -288,175 +288,175 @@
   },"41": {
     "doc": "Week 2 - Identification",
     "title": "Introduction: “Data: A Definition”",
-    "content": " ",
+    "content": "Slides here . ",
     "url": "/week-2-identification/#introduction-data-a-definition",
     
     "relUrl": "/week-2-identification/#introduction-data-a-definition"
   },"42": {
-    "doc": "Week 2 - Identification",
-    "title": "Slides here",
-    "content": " ",
-    "url": "/week-2-identification/#slides-here",
-    
-    "relUrl": "/week-2-identification/#slides-here"
-  },"43": {
     "doc": "Week 2 - Identification",
     "title": "Data or not?",
     "content": ". What don’t you see? . ",
     "url": "/week-2-identification/#data-or-not",
     
     "relUrl": "/week-2-identification/#data-or-not"
-  },"44": {
+  },"43": {
     "doc": "Week 2 - Identification",
     "title": "Homework",
     "content": ". | Brainstorm a list of three datasets that don’t seem to exist. Send it to me by Friday at 9:00 AM | . ",
     "url": "/week-2-identification/#homework",
     
     "relUrl": "/week-2-identification/#homework"
-  },"45": {
+  },"44": {
     "doc": "Week 2 - Identification",
     "title": "Week 2 - Identification",
     "content": " ",
     "url": "/week-2-identification/",
     
     "relUrl": "/week-2-identification/"
-  },"46": {
+  },"45": {
     "doc": "Week 3 - Description",
     "title": "Guiding Questions",
     "content": ". | How do we describe data? | What are metadata standards? | . ",
     "url": "/week-3-description/#guiding-questions",
     
     "relUrl": "/week-3-description/#guiding-questions"
-  },"47": {
+  },"46": {
     "doc": "Week 3 - Description",
     "title": "Pre-work",
     "content": ". | Describing Data LibGuide | What are Metadata Standards? | . ",
     "url": "/week-3-description/#pre-work",
     
     "relUrl": "/week-3-description/#pre-work"
-  },"48": {
+  },"47": {
     "doc": "Week 3 - Description",
     "title": "Plan",
     "content": ". | Introduction: Formats and Standards | Activity: Organizing | Activity: What is it? Who says? | . ",
     "url": "/week-3-description/#plan",
     
     "relUrl": "/week-3-description/#plan"
-  },"49": {
+  },"48": {
     "doc": "Week 3 - Description",
     "title": "Introduction: Formats and Standards",
     "content": "Slides go here . ",
     "url": "/week-3-description/#introduction-formats-and-standards",
     
     "relUrl": "/week-3-description/#introduction-formats-and-standards"
-  },"50": {
+  },"49": {
     "doc": "Week 3 - Description",
     "title": "Activity: Organizing",
     "content": ". | Metadata: have them describe something? a book? By hand? | . ",
     "url": "/week-3-description/#activity-organizing",
     
     "relUrl": "/week-3-description/#activity-organizing"
-  },"51": {
+  },"50": {
     "doc": "Week 3 - Description",
     "title": "Activity: What is it? Who says?",
     "content": "Standards (different groups describe the same thing and we compare?) . ",
     "url": "/week-3-description/#activity-what-is-it-who-says",
     
     "relUrl": "/week-3-description/#activity-what-is-it-who-says"
-  },"52": {
+  },"51": {
     "doc": "Week 3 - Description",
     "title": "Homework",
     "content": ". | Select a category of culture from your life and create a dataset from it. It should have at least 10 objects with five metadata categories. Bonus points for using an established metadata standard. Submit Friday by 9:00 AM. | . ",
     "url": "/week-3-description/#homework",
     
     "relUrl": "/week-3-description/#homework"
-  },"53": {
+  },"52": {
     "doc": "Week 3 - Description",
     "title": "Week 3 - Description",
     "content": " ",
     "url": "/week-3-description/",
     
     "relUrl": "/week-3-description/"
-  },"54": {
+  },"53": {
     "doc": "Week 4 - Collection",
     "title": "Guiding Questions",
     "content": ". | What are tools for gathering materials? | What are issues in the use of these tools? | . ",
     "url": "/week-4-collection/#guiding-questions",
     
     "relUrl": "/week-4-collection/#guiding-questions"
-  },"55": {
+  },"54": {
     "doc": "Week 4 - Collection",
     "title": "Pre-work",
     "content": ". | Data Collection | Install and work through webscraper.io documentation | . ",
     "url": "/week-4-collection/#pre-work",
     
     "relUrl": "/week-4-collection/#pre-work"
-  },"56": {
+  },"55": {
     "doc": "Week 4 - Collection",
     "title": "The Plan",
     "content": ". | Introduction: On Gathering | Activity: Workshop on webscraper.io | . ",
     "url": "/week-4-collection/#the-plan",
     
     "relUrl": "/week-4-collection/#the-plan"
-  },"57": {
+  },"56": {
     "doc": "Week 4 - Collection",
     "title": "Introduction: On Gathering",
     "content": "Slides go here. Cover: . | Surveys | Web Scraping | Ethics and Human Data | Crowdsourcing | . ",
     "url": "/week-4-collection/#introduction-on-gathering",
     
     "relUrl": "/week-4-collection/#introduction-on-gathering"
-  },"58": {
+  },"57": {
     "doc": "Week 4 - Collection",
     "title": "Activity: Workshop on webscraper.io",
-    "content": ". ",
+    "content": ". | Take them through scraping the Scholars’ Lab website. | Show them how to export a webpage | . ",
     "url": "/week-4-collection/#activity-workshop-on-webscraperio",
     
     "relUrl": "/week-4-collection/#activity-workshop-on-webscraperio"
-  },"59": {
+  },"58": {
     "doc": "Week 4 - Collection",
     "title": "Homework",
-    "content": ". | Scrape a thing by Friday | . ",
+    "content": ". | Practice scraping! Try using webscraper.io to scrape this simple countries of the world example. By Friday at 9:00 AM, send me a CSV of your results. | Identify three other sites that contain data you might be interested in collecting. Think especially about different kinds of content, especially those related to arts, culture, and the humanities. | . ",
     "url": "/week-4-collection/#homework",
     
     "relUrl": "/week-4-collection/#homework"
-  },"60": {
+  },"59": {
     "doc": "Week 4 - Collection",
     "title": "Week 4 - Collection",
     "content": " ",
     "url": "/week-4-collection/",
     
     "relUrl": "/week-4-collection/"
-  },"61": {
+  },"60": {
     "doc": "Week 5 - Cleaning",
     "title": "Guiding Questions",
     "content": ". | What is the importance of clean, tidy data? | How do we fix problems with our data? | . ",
     "url": "/week-5-cleaning/#guiding-questions",
     
     "relUrl": "/week-5-cleaning/#guiding-questions"
-  },"62": {
+  },"61": {
     "doc": "Week 5 - Cleaning",
     "title": "Pre-work",
     "content": ". | Open Refine Documentation; work through each piece of the documentation, stopping after you finish the section on reconciling. | Cleaning Data with Susan Walsh from the “Data Career Podcast” TODO: listen to this to see if it’s all useful | Optional: “Against Cleaning”, Katie Rawson and Trevor Muños | . ",
     "url": "/week-5-cleaning/#pre-work",
     
     "relUrl": "/week-5-cleaning/#pre-work"
-  },"63": {
+  },"62": {
     "doc": "Week 5 - Cleaning",
     "title": "The Plan",
     "content": ". | Introduction: On Cleaning | Activity: Workshop on Google Open Refine | . ",
     "url": "/week-5-cleaning/#the-plan",
     
     "relUrl": "/week-5-cleaning/#the-plan"
-  },"64": {
+  },"63": {
     "doc": "Week 5 - Cleaning",
     "title": "Introduction: On Cleaning",
-    "content": "Slides Here . | Share your job interview question | What is cleaning and why does it matter | Cleaning by hand | . Activity: Workshop on Google Open Refine . Use humanities materials? . ",
+    "content": "Slides Here . | Share your job interview question | What is cleaning and why does it matter | Cleaning by hand | . ",
     "url": "/week-5-cleaning/#introduction-on-cleaning",
     
     "relUrl": "/week-5-cleaning/#introduction-on-cleaning"
+  },"64": {
+    "doc": "Week 5 - Cleaning",
+    "title": "Activity: Workshop on Google Open Refine",
+    "content": "Use humanities materials? . ",
+    "url": "/week-5-cleaning/#activity-workshop-on-google-open-refine",
+    
+    "relUrl": "/week-5-cleaning/#activity-workshop-on-google-open-refine"
   },"65": {
     "doc": "Week 5 - Cleaning",
     "title": "Homework",
-    "content": ". | By Friday have them clean up a messed up dataset | . ",
+    "content": ". | Look at this dataset of audiobook data. | . By Friday have them clean up a messed up dataset . ",
     "url": "/week-5-cleaning/#homework",
     
     "relUrl": "/week-5-cleaning/#homework"
@@ -484,14 +484,14 @@
   },"69": {
     "doc": "Week 6 - Analysis",
     "title": "Plan",
-    "content": "Introduction: Qualitative vs Quantitative Analysis Activity: Workshop on Microsoft Power Bi . Introduction: Qualitative vs Quantitative Analysis . Slides go here . Activity: Workshop on Microsoft Power Bi . ",
+    "content": "Introduction: Qualitative vs Quantitative Analysis Activity: Workshop on Voyant . Introduction: Qualitative vs Quantitative Analysis . Slides go here . Activity: Workshop on Microsoft Power Bi . Maybe go with Voyant instead . ",
     "url": "/week-6-analysis/#plan",
     
     "relUrl": "/week-6-analysis/#plan"
   },"70": {
     "doc": "Week 6 - Analysis",
     "title": "Homework",
-    "content": ". | Use the tools at your disposal to tell a story. | . ",
+    "content": ". | Use the tools at your disposal to tell a story. | . Potential Resources . https://www.mayainsights.com/blog/power-bi-text-analytics/#:~:text=Apply%20Text%20Analytics%20Functions%3A%20If,the%20language%20of%20the%20text. https://learn.microsoft.com/en-us/power-bi/fundamentals/ . ",
     "url": "/week-6-analysis/#homework",
     
     "relUrl": "/week-6-analysis/#homework"
@@ -554,32 +554,39 @@
   },"79": {
     "doc": "Week 8 - Project Planning",
     "title": "Guiding Questions",
-    "content": ". | . ",
+    "content": ". | What will you work on for the remainder of the course? | . ",
     "url": "/week-8-project-planning/#guiding-questions",
     
     "relUrl": "/week-8-project-planning/#guiding-questions"
   },"80": {
     "doc": "Week 8 - Project Planning",
     "title": "Plan",
-    "content": " ",
+    "content": ". | Students will pitch three potential ideas as a group and discuss the pro | . ",
     "url": "/week-8-project-planning/#plan",
     
     "relUrl": "/week-8-project-planning/#plan"
   },"81": {
+    "doc": "Week 8 - Project Planning",
+    "title": "The Pitch",
+    "content": "What are the pros and cons of each? What stories most interest you? How easy do you think it will be to analyze these resources? . ",
+    "url": "/week-8-project-planning/#the-pitch",
+    
+    "relUrl": "/week-8-project-planning/#the-pitch"
+  },"82": {
     "doc": "Week 8 - Project Planning",
     "title": "Pre-work",
     "content": "What will it be . Who will do what . ",
     "url": "/week-8-project-planning/#pre-work",
     
     "relUrl": "/week-8-project-planning/#pre-work"
-  },"82": {
+  },"83": {
     "doc": "Week 8 - Project Planning",
     "title": "Week 8 - Project Planning",
     "content": " ",
     "url": "/week-8-project-planning/",
     
     "relUrl": "/week-8-project-planning/"
-  },"83": {
+  },"84": {
     "doc": "Week 9 - Spring Break",
     "title": "Week 9 - Spring Break",
     "content": "No session . ",
