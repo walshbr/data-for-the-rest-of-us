@@ -8,6 +8,8 @@ date: 2025-04-01
 
 ## Plan
 
-## Pre-reading
+* Work time to plan for and then collect the data for your project using webscraper.io.
 
-## Pre-work
+## Homework
+
+* Send the dataset along to me by Friday at 9:00AM.

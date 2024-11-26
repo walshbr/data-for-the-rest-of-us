@@ -8,6 +8,8 @@ date: 2025-04-29
 
 ## Plan
 
-## Pre-reading
+* Final presentation of your dataset.
 
-## Pre-work
+## Homework
+
+* Celebrate!

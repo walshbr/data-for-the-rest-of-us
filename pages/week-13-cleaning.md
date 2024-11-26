@@ -8,6 +8,8 @@ date: 2025-04-08
 
 ## Plan
 
-## Pre-reading
+* Work time to begin cleaning your project with Google Open Refine.
 
-## Pre-work
+## Homework
+
+* Send the cleaned dataset along to me by Friday at 9:00AM.

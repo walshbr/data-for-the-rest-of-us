@@ -8,6 +8,8 @@ date: 2025-04-15
 
 ## Plan
 
-## Pre-reading
+* Work time to work on analysis of your dataset.
 
-## Pre-work
+## Homework
+
+* Send provisional analyses of your dataset along to me by Friday at 9:00AM.

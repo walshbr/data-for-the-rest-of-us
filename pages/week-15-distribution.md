@@ -8,6 +8,8 @@ date: 2025-04-22
 
 ## Plan
 
-## Pre-reading
+* Work time to develop and implement the distribution plan for your dataset.
 
-## Pre-work
+## Homework
+
+* Distribute your dataset and documentation by Friday at 9:00AM.
