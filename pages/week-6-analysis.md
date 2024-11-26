@@ -7,9 +7,8 @@ date: 2025-02-18
 ---
 
 TODO: Decide on pre-work
-TODO: Decide on tool
 TODO: Intro Slides
-TODO: Workshop
+TODO: Workshop on looker studio
 TODO: Homework
 
 ## Guiding Questions
@@ -24,7 +23,7 @@ TODO: Homework
 ## Plan
 
 * Introduction: Qualitative vs Quantitative Analysis
-* Activity: Workshop on Voyant or 
+* Activity: Workshop on Looker Studio
 
 ---
 ### Introduction: Qualitative vs Quantitative Analysis
@@ -32,7 +31,6 @@ Slides go here
 
 ---
 ### Activity: Workshop on Looker Studio?
-Voyant
 
 
 ---

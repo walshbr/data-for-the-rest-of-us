@@ -8,7 +8,7 @@ date: 2025-02-25
 
 TODO: Decide on Pre-work
 TODO: Slides
-TODO: Workshop
+TODO: Workshop on GitHub
 
 ## Guiding Questions
 

@@ -7,8 +7,7 @@ date: 2025-01-21
 ---
 
 TODO: Intro slides
-TODO: Workshop one
-TODO: Workshop two
+TODO: Workshop
 
 ## Guiding Questions
 
@@ -28,9 +27,8 @@ TODO: Workshop two
 ## Plan
 
 * Introduction: "Data: A Definition" 
-* Activity: Data or not?
+* Workshop: Is it Data? What don't you see?
     * What counts?
-* Activity: What don't you see?
     * What don't you see?
 
 ---
@@ -39,10 +37,7 @@ TODO: Workshop two
 Slides here
 
 ---
-## Data or not?
-
----
-### What don't you see?
+## Is it Data? What don't you see?
 
 ---
 

@@ -6,6 +6,9 @@ nav_order: 13
 date: 2025-01-28
 ---
 
+TODO: Intro slides
+TODO: Workshop
+
 ## Guiding Questions
 
 * How do we describe data?
@@ -19,21 +22,17 @@ date: 2025-01-28
 ## Plan
 
 * Introduction: Formats and Standards
-* Activity: Organizing
-* Activity: What is it? Who says? 
+* Activity: Organizing and Describing
 
 ---
 ## Introduction: Formats and Standards
 Slides go here
 
 ---
-## Activity: Organizing
+## Workshop: Organizing and Describing
 
 * Metadata: have them describe something? a book? By hand?
-
----
-## Activity: What is it? Who says? 
-Standards
+* Standards
 (different groups describe the same thing and we compare?)
 
 ---
