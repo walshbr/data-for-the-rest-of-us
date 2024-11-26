@@ -12,4 +12,4 @@ date: 2025-03-18
 
 ## Homework
 
-* Send the topic to me by Friday at 9:00 AM.
+* Send the topic and planned dataset to me by Friday at 9:00 AM.
