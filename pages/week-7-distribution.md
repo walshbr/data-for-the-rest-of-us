@@ -28,7 +28,7 @@ TODO: Workshop
 ## Introduction: Publishing your Work
 
 Platforms and documentation
-
+ethics, rights
 Github, Libra, why not GitHub
 
 ---
