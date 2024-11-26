@@ -24,16 +24,15 @@ TODO: Homework
 ## Plan
 
 * Introduction: Qualitative vs Quantitative Analysis
-* Activity: Workshop on Voyant
+* Activity: Workshop on Voyant or 
 
 ---
 ### Introduction: Qualitative vs Quantitative Analysis
 Slides go here
 
 ---
-### Activity: Workshop on Microsoft Power Bi
-
-Maybe go with Voyant instead
+### Activity: Workshop on Looker Studio?
+Voyant
 
 
 ---
@@ -42,6 +41,5 @@ Maybe go with Voyant instead
 
 Potential Resources
 
-https://www.mayainsights.com/blog/power-bi-text-analytics/#:~:text=Apply%20Text%20Analytics%20Functions%3A%20If,the%20language%20of%20the%20text.
-
-https://learn.microsoft.com/en-us/power-bi/fundamentals/
+Wtf csv - https://databasic.io/
+Looker Studio?
