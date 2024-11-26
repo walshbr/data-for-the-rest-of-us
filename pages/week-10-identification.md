@@ -6,6 +6,8 @@ nav_order: 20
 date: 2025-03-18
 ---
 
+TODO: start to map out second half of course and deliverables each time
+
 ## Plan
 
 ## Pre-reading

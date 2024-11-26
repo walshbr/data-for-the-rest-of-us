@@ -6,6 +6,9 @@ nav_order: 14
 date: 2025-02-04
 ---
 
+TODO: Intro Slides
+TODO: Webscraper Workshop
+
 ## Guiding Questions
 
 * What are tools for gathering materials?

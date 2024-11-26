@@ -6,6 +6,12 @@ nav_order: 16
 date: 2025-02-18
 ---
 
+TODO: Decide on pre-work
+TODO: Decide on tool
+TODO: Intro Slides
+TODO: Workshop
+TODO: Homework
+
 ## Guiding Questions
 
 * How does all the work we have done so far enable us to ask new questions of our materials?
@@ -17,8 +23,8 @@ date: 2025-02-18
 ---
 ## Plan
 
-Introduction: Qualitative vs Quantitative Analysis
-Activity: Workshop on Voyant
+* Introduction: Qualitative vs Quantitative Analysis
+* Activity: Workshop on Voyant
 
 ---
 ### Introduction: Qualitative vs Quantitative Analysis

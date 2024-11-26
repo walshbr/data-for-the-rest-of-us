@@ -5,6 +5,11 @@ permalink: /week-8-project-planning/
 nav_order: 18
 date: 2025-03-04
 ---
+
+TODO: Pre-work
+TODO: Solidify Plan and Pitch requirements
+TODO: Homework?
+
 ## Guiding Questions
 
 * What will you work on for the remainder of the course? 

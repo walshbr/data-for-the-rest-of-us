@@ -6,6 +6,10 @@ nav_order: 12
 date: 2025-01-21
 ---
 
+TODO: Intro slides
+TODO: Workshop one
+TODO: Workshop two
+
 ## Guiding Questions
 
 * What counts?

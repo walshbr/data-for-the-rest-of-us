@@ -8,9 +8,9 @@ nav_order: 1
 
 ## Assignments
 
-Your grade will be made up of two components:
-* Each week has a small assignment due by 9:00AM the following.
-* 
+Your grade will be made up of a collection of components:
+* Weekly assignments
+* Participation in final project
 
 ## Attendance
 

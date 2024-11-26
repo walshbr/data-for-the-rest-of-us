@@ -6,6 +6,10 @@ nav_order: 17
 date: 2025-02-25
 ---
 
+TODO: Decide on Pre-work
+TODO: Slides
+TODO: Workshop
+
 ## Guiding Questions
 
 * How do you share your work?
@@ -24,6 +28,8 @@ date: 2025-02-25
 ## Introduction: Publishing your Work
 
 Platforms and documentation
+
+Github, Libra, why not GitHub
 
 ---
 ## Activity: Workshop on GitHub
