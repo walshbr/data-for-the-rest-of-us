@@ -6,6 +6,9 @@ nav_order: 11
 date: 2025-01-14
 ---
 
+TODO: Finalize syllabus
+TODO: Add in remaining slides on policies and such when done
+
 ## Guiding Questions
 
 * What is data?
@@ -25,7 +28,7 @@ date: 2025-01-14
 ---
 ## We Data: An Icebreaking Activity
 
-I want to get to know you. In the spirit of the course, your job is to make a dataset about yourselves to share back with me. You have sixty minutes in which to do so. You have to hit the following buckets. 
+I want to get to know you. In the spirit of the course, your job is to make a dataset about yourselves to share back with me. You have 45 minutes in which to do so. You have to hit the following buckets. 
 
 * **Identify your data**
     * Who are you? 

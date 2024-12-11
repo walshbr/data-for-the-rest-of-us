@@ -6,10 +6,10 @@ nav_order: 16
 date: 2025-02-18
 ---
 
+TODO: look at https://www.rawgraphs.io/
 TODO: Decide on pre-work
 TODO: Intro Slides
 TODO: Workshop on looker studio
-TODO: Homework
 
 ## Guiding Questions
 
@@ -36,8 +36,3 @@ Slides go here
 ---
 ## Homework
 * Use the tools at your disposal to tell a story.
-
-Potential Resources
-
-Wtf csv - https://databasic.io/
-Looker Studio?
