@@ -6,7 +6,6 @@ nav_order: 14
 date: 2025-02-04
 ---
 
-TODO: Intro Slides
 TODO: Webscraper Workshop
 
 ## Guiding Questions
@@ -24,22 +23,7 @@ TODO: Webscraper Workshop
 
 * Introduction: On Gathering
 * Activity: Workshop on webscraper.io
-
----
-## Introduction: On Gathering
-
-Slides go here. Cover: 
-
-* Surveys
-* Web Scraping
-* Ethics and Human Data
-* Crowdsourcing
-
----
-## Activity: Workshop on webscraper.io
-
-* Take them through scraping the Scholars' Lab website. 
-* Show them how to export a webpage
+* [Slides linked here](/resources/week-3/collection.pptx)
 
 ---
 ## Homework

@@ -6,8 +6,6 @@ nav_order: 12
 date: 2025-01-21
 ---
 
-TODO: Workshop on what is missing
-
 ## Guiding Questions
 
 * What counts?
@@ -29,17 +27,14 @@ TODO: Workshop on what is missing
 * Workshop: Is it Data? What don't you see?
     * What counts?
     * What don't you see?
-
----
-## Introduction: "Data: A Definition"
-
-Slides here
-
----
-## Is it Data? What don't you see?
+* [Slides linked here](/resources/week-2/identification.pptx)
 
 ---
 
 ## Homework
 
-* Brainstorm a list of three datasets that don't seem to exist. Send it to me by Friday at 9:00 AM
+* Brainstorm a list of three datasets that don't seem to exist that you might be interested in. Give each one a 2-3 sentence description. Send your list to me by Friday at 9:00 AM.
+
+## Resources
+
+* [Slides linked here](/resources/week-1/intro.pptx)

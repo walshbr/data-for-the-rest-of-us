@@ -6,9 +6,6 @@ nav_order: 13
 date: 2025-01-28
 ---
 
-TODO: Intro slides
-TODO: Workshop
-
 ## Guiding Questions
 
 * How do we describe data?
@@ -23,19 +20,9 @@ TODO: Workshop
 
 * Introduction: Formats and Standards
 * Activity: Organizing and Describing
-
----
-## Introduction: Formats and Standards
-Slides go here
-
----
-## Workshop: Organizing and Describing
-
-* Metadata: have them describe something? a book? By hand?
-* Standards
-(different groups describe the same thing and we compare?)
+* [Slides linked here](/resources/week-3/description.pptx)
 
 ---
 ## Homework
 
-* Select a culture category (film, books, music) from your life and create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.
+* Select a cultural interest (film, books, music) of yours and create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Be detailed! Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.

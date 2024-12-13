@@ -24,6 +24,7 @@ TODO: Add in remaining slides on policies and such when done
 * We Data: An Icebreaking Activity
 * Discussion
 * Review syllabus
+* [Slides linked here](/resources/week-1/intro.pptx)
 
 ---
 ## We Data: An Icebreaking Activity
