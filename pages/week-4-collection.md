@@ -6,8 +6,6 @@ nav_order: 14
 date: 2025-02-04
 ---
 
-TODO: Webscraper Workshop
-
 ## Guiding Questions
 
 * What are tools for gathering materials?
@@ -23,7 +21,7 @@ TODO: Webscraper Workshop
 
 * Introduction: On Gathering
 * Activity: Workshop on webscraper.io
-* [Slides linked here](/resources/week-3/collection.pptx)
+* [Slides linked here](/resources/week-4/collection.pptx)
 
 ---
 ## Homework
