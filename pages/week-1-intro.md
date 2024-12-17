@@ -7,6 +7,7 @@ date: 2025-01-14
 ---
 
 TODO: Finalize syllabus
+TODO: Add notes on what they need to install ahead of time to either the preliminary week? or the individual weeks.
 TODO: Add in remaining slides on policies and such when done
 
 ## Guiding Questions

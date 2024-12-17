@@ -6,8 +6,6 @@ nav_order: 15
 date: 2025-02-11
 ---
 
-TODO: OpenRefine Workshop
-
 ## Guiding Questions
 
 * What is the importance of clean, tidy data?
