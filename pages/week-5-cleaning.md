@@ -6,7 +6,6 @@ nav_order: 15
 date: 2025-02-11
 ---
 
-TODO: Intro Slides
 TODO: OpenRefine Workshop
 
 ## Guiding Questions
@@ -17,26 +16,15 @@ TODO: OpenRefine Workshop
 ## Pre-work
 
 * [Open Refine Documentation](https://openrefine.org/docs); work through each piece of the documentation, stopping after you finish the section on reconciling. 
-* [Cleaning Data with Susan Walsh from the "Data Career Podcast"](https://podcasts.apple.com/us/podcast/33-cleaning-data-with-susan-walsh-the-classification-guru/id1547386535?i=1000543873861) TODO: listen to this to see if it's all useful
+* [Cleaning Data with Susan Walsh from the "Data Career Podcast"](https://podcasts.apple.com/us/podcast/33-cleaning-data-with-susan-walsh-the-classification-guru/id1547386535?i=1000543873861)
 
 ## The Plan
 
 * Introduction: On Cleaning
 * Activity: Workshop on Google Open Refine
+* [Slides linked here](/resources/week-5/cleaning.pptx)
 
 ---
-## Introduction: On Cleaning
-
-Slides Here
-
-* Share your job interview question
-* What is cleaning and why does it matter
-* Cleaning by hand
-
----
-## Activity: Workshop on Google Open Refine
-
-Look at [this dataset](https://www.kaggle.com/datasets/snehangsude/audible-dataset?resource=download&select=audible_cleaned.csv) of audiobook data. Compare the uncleaned version and the cleaned one. Then use Open Refine to get from one to the other. 
 
 ## Homework
 
