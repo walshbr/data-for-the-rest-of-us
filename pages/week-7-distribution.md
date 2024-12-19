@@ -7,13 +7,12 @@ date: 2025-02-25
 ---
 
 TODO: Decide on Pre-work
-TODO: Slides
 TODO: Workshop on GitHub
 TODO: Homework
 
 ## Guiding Questions
 
-* How do you share your work?
+* How and why do you share your work?
 * How do you do so in a form that is usable for others?
 
 ## Pre-work
@@ -24,18 +23,10 @@ TODO: Homework
 
 * Introduction: Publishing your Work
 * Activity: Workshop on GitHub
+* [Slides linked here](/resources/week-7/distribution.pptx)
 
 ---
-## Introduction: Publishing your Work
 
-Platforms and documentation
-ethics, rights
-Github, Libra, why not GitHub
-
----
-## Activity: Workshop on GitHub
-
----
 ## Homework
 
 * Meet as a group to discuss potential project ideas. You will pitch three potential ones to a group of judges next time.

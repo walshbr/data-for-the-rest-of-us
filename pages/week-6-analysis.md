@@ -6,10 +6,9 @@ nav_order: 16
 date: 2025-02-18
 ---
 
-TODO: look at https://www.rawgraphs.io/
+TODO: decide on slide size - might just copy out the results onto a new slide so they are big enough.
 TODO: Decide on pre-work
 TODO: Intro Slides
-TODO: Workshop on looker studio
 
 ## Guiding Questions
 
