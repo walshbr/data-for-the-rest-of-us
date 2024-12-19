@@ -22,7 +22,6 @@ date: 2025-01-28
 * Activity: Organizing and Describing
 * [Slides linked here](/resources/week-3/description.pptx)
 
----
 ## Homework
 
 * Select a cultural interest (film, books, music) of yours and create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Be detailed! Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.

@@ -29,12 +29,6 @@ date: 2025-01-21
     * What don't you see?
 * [Slides linked here](/resources/week-2/identification.pptx)
 
----
-
 ## Homework
 
 * Brainstorm a list of three datasets that don't seem to exist that you might be interested in. Give each one a 2-3 sentence description. Send your list to me by Friday at 9:00 AM.
-
-## Resources
-
-* [Slides linked here](/resources/week-1/intro.pptx)

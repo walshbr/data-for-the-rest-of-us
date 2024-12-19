@@ -17,13 +17,12 @@ date: 2025-02-04
 * Install and work through [webscraper.io documentation](https://webscraper.io/how-to-videos)
 
 
-## The Plan
+## Plan
 
 * Introduction: On Gathering
 * Activity: Workshop on webscraper.io
 * [Slides linked here](/resources/week-4/collection.pptx)
 
----
 ## Homework
 
 * Practice scraping! Try using webscraper.io to scrape this [simple countries of the world example](https://www.scrapethissite.com/pages/simple/). By Friday at 9:00 AM, send me a CSV of your results. 

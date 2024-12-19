@@ -6,10 +6,6 @@ nav_order: 17
 date: 2025-02-25
 ---
 
-TODO: Decide on Pre-work
-TODO: Workshop on GitHub
-TODO: Homework
-
 ## Guiding Questions
 
 * How and why do you share your work?
@@ -17,17 +13,28 @@ TODO: Homework
 
 ## Pre-work
 
-* 
+* Explore [Post45 Data Collective](https://data.post45.org/)
+* Explore [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/)
 
 ## Plan
 
 * Introduction: Publishing your Work
-* Activity: Workshop on GitHub
+* Activity: Return to Icebreaker Dataset
 * [Slides linked here](/resources/week-7/distribution.pptx)
 
 ---
 
 ## Homework
 
-* Meet as a group to discuss potential project ideas. You will pitch three potential ones to a group of judges next time.
-* By Friday at 9AM something with GitHub?
+* Come up with three potential data sources to collect and hone into a final project. Email to me by 9:00 AM Friday. For each of them, share a link and a short description of it.
+* Meet as a group to discuss your potential project ideas. As a group, you will pitch three potential ideas to a group of judges next time.
+
+And as a preview, your final outcome will entail the following, so you might want to touch on some pieces of this during your presentations.
+
+* Collected, cleaned dataset
+* Metadata breakdown
+* Narrative of the dataset
+* Usage examples
+* Basic analysis
+* Credits
+* Distributed to a repository (potentially!)

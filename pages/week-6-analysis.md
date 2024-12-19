@@ -6,32 +6,22 @@ nav_order: 16
 date: 2025-02-18
 ---
 
-TODO: decide on slide size - might just copy out the results onto a new slide so they are big enough.
-TODO: Decide on pre-work
-TODO: Intro Slides
-
 ## Guiding Questions
 
 * How does all the work we have done so far enable us to ask new questions of our materials?
 * How do quantitative and qualitative analyses relate to one another?
 
----
 ## Pre-work
 
----
+* [Qualitative vs Quantitative Research](https://www.lyssna.com/blog/qualitative-vs-quantitative-research/)
+* [Looker Studio Tutorial for Beginners](https://www.youtube.com/watch?v=Coe_f79Xc2o)
+
 ## Plan
 
 * Introduction: Qualitative vs Quantitative Analysis
 * Activity: Workshop on Looker Studio
+* [Slides linked here](/resources/week-6/analysis.pptx)
 
----
-### Introduction: Qualitative vs Quantitative Analysis
-Slides go here
-
----
-### Activity: Workshop on Looker Studio?
-
-
----
 ## Homework
-* Use the tools at your disposal to tell a story.
+
+* Use looker studio to tell a story about the data. Send me a paragraph describing what you see and a screenshot of any visualizations.

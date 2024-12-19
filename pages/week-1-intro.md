@@ -10,6 +10,7 @@ TODO: reach out to david and update the description
 TODO: Finalize syllabus
 TODO: Add notes on what they need to install ahead of time to either the preliminary week? or the individual weeks.
 TODO: Add in remaining slides on policies and such when done
+TODO: Double check homework and work through the readings
 
 ## Guiding Questions
 
@@ -28,7 +29,6 @@ TODO: Add in remaining slides on policies and such when done
 * Review syllabus
 * [Slides linked here](/resources/week-1/intro.pptx)
 
----
 ## We Data: An Icebreaking Activity
 
 I want to get to know you. In the spirit of the course, your job is to make a dataset about yourselves to share back with me. You have 45 minutes in which to do so. You have to hit the following buckets. 
@@ -52,7 +52,6 @@ I want to get to know you. In the spirit of the course, your job is to make a da
 * Use what you have.
 * Don't spend so much time talking. Do. 
 
----
 ## Homework
 
 * By Friday morning at 9:00 AM, share your class dataset with me.
