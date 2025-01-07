@@ -24,4 +24,4 @@ date: 2025-02-18
 
 ## Homework
 
-* Use looker studio to tell a story about the data. Send me a paragraph describing what you see and a screenshot of any visualizations.
+* Use looker studio to tell a story about the data. By 9:00 AM send me a paragraph describing what you see and a screenshot of any visualization that is meaningful to you.

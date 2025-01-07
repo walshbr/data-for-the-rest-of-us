@@ -48,4 +48,4 @@ I want to get to know you. In the spirit of the course, your job is to make a da
 
 ## Homework
 
-* By Friday morning at 9:00 AM, share your class dataset with me.
+* By Friday morning at 9:00 AM, share your class dataset with me along with a fifty-word reflection on the activity. What was the most challenging piece? What did you learn?

@@ -27,4 +27,4 @@ date: 2025-03-04
 
 ## Homework
 
-* Submit a short write-up of your ideas by Friday at 9:00AM. One single-spaced page max, so roughly one paragraph for each one. 
+* Submit a short write-up of your ideas by Friday at 9:00AM. One single-spaced page max, so roughly one paragraph for each idea. 
