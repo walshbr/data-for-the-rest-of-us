@@ -8,7 +8,7 @@ date: 2025-04-15
 
 ## Plan
 
-* Work time to work on analysis of your dataset.
+* Work time to for analysis of your dataset.
 
 ## Homework
 

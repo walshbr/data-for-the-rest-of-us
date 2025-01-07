@@ -8,7 +8,7 @@ date: 2025-03-18
 
 ## Plan
 
-* Work time to finalize the identification of your shared data project.
+* Work time for identification of your shared data project and to develop a plan for how the work will go. 
 
 ## Homework
 

@@ -14,7 +14,7 @@ date: 2025-02-18
 ## Pre-work
 
 * [Qualitative vs Quantitative Research](https://www.lyssna.com/blog/qualitative-vs-quantitative-research/)
-* [Looker Studio Tutorial for Beginners](https://www.youtube.com/watch?v=Coe_f79Xc2o)
+* [Looker Studio Tutorial for Beginners](https://www.youtube.com/watch?v=Coe_f79Xc2o). Try to follow on your own.
 
 ## Plan
 

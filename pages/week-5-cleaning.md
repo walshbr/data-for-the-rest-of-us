@@ -13,7 +13,7 @@ date: 2025-02-11
 
 ## Pre-work
 
-* [Open Refine Documentation](https://openrefine.org/docs); work through each piece of the documentation, stopping after you finish the section on reconciling. 
+* [Open Refine Documentation](https://openrefine.org/docs); install and work through each piece of the documentation, stopping after you finish the section on reconciling. 
 * [Cleaning Data with Susan Walsh from the "Data Career Podcast"](https://podcasts.apple.com/us/podcast/33-cleaning-data-with-susan-walsh-the-classification-guru/id1547386535?i=1000543873861)
 
 ## Plan

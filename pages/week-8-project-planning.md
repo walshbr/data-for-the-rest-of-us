@@ -6,8 +6,6 @@ nav_order: 18
 date: 2025-03-04
 ---
 
-TODO: Homework?
-
 ## Guiding Questions
 
 * What will you work on for the remainder of the course? 

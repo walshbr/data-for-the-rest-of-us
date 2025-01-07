@@ -6,12 +6,6 @@ nav_order: 11
 date: 2025-01-14
 ---
 
-TODO: reach out to david and update the description
-TODO: Finalize syllabus
-TODO: Add notes on what they need to install ahead of time to either the preliminary week? or the individual weeks.
-TODO: Add in remaining slides on policies and such when done
-TODO: Double check homework and work through the readings
-
 ## Guiding Questions
 
 * What is data?
