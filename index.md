@@ -36,8 +36,8 @@ Your final grade for the course, will be calculated based on your total number o
 
 ## Late Assignments
 
-Because the course moves quickly and builds on itself, it's important to get your assignments in on time. If this becomes a problem, reach out to Brandon to discuss. 
+Because the course moves quickly and builds on itself, it's important to get your assignments in on time. If this becomes a problem, reach out to Brandon to discuss to see if we can work out alternatives for you. 
 
 ## Attendance
 
-You are allowed one absence in the course. Please let me know ASAP if you have issues. Once you have more than one absence, it will decrease your letter grade by 1/3 (B to B-, etc.)
+You are allowed one absence in the course. Please let me know ASAP if you have issues. Once you have more than one absence, it will decrease your letter grade by 1/3 (B to B-, etc.). In addition, it is important to show up for each other in every sense of the word. Presence in the course each day involves active participation in both your group project, discussion, and more. 
