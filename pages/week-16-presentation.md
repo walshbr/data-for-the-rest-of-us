@@ -13,3 +13,4 @@ date: 2025-04-29
 ## Homework
 
 * Celebrate!
+* Upload a 200 word reflection on your group presentation and your dataset.

@@ -13,4 +13,4 @@ date: 2025-03-18
 
 ## Homework
 
-* Send the topic and planned dataset to me by Friday at 9:00 AM. In addition, describe in 100-150 words why it matters. Include 25-50 words about each person's contribution.
+* Send your group's selected topic and planned dataset to me by Friday at 9:00 AM. As a group, describe in 100-150 words why it matters. Also submit 50 words about your individual contribution to the week's work.

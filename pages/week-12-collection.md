@@ -13,4 +13,4 @@ date: 2025-04-01
 
 ## Homework
 
-* Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 100-150 words. Include 25-50 words about each person's contribution.
+* Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 100-150 words. Also submit 50 words about your individual contribution to the week's work.

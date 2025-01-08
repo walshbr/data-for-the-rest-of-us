@@ -13,4 +13,4 @@ date: 2025-04-08
 
 ## Homework
 
-* Send the cleaned dataset along to me by Friday at 9:00AM. Describe any issues in 100-150 words. It's ok if you need more time! Include 25-50 words about each person's contribution.
+* Send the cleaned dataset along to me by Friday at 9:00AM. Describe any issues in 100-150 words. It's ok if you need more time! Also submit 50 words about your individual contribution to the week's work.

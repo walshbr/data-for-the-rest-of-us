@@ -23,8 +23,8 @@ date: 2025-03-04
 
 ## Plan
 
-* Students will pitch three potential ideas in groups for four to a panel of judges. 20 minutes max for each group.
+* Student groups will pitch three potential ideas in groups for four to a panel of judges. 20 minutes max for each group.
 
 ## Homework
 
-* Submit a short write-up of your gropup's ideas by Friday at 9:00AM. One single-spaced page max, so roughly one paragraph for each idea. Rank them based on your interest and how feasible they seem. Brandon will select one for you (hopefully the one you ranked top!).
+* Submit a short write-up of your group's ideas by Friday at 9:00AM. One single-spaced page max, so roughly one paragraph for each idea. Rank them based on your interest and how feasible they seem. Brandon will select one for you to work on (hopefully the one you ranked top!).

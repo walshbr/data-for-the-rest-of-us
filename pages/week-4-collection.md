@@ -25,5 +25,5 @@ date: 2025-02-04
 
 ## Homework
 
-* Practice scraping! Try using webscraper.io to scrape this [simple countries of the world example](https://www.scrapethissite.com/pages/simple/). By Friday at 9:00 AM, send me a CSV of your results. 
+* Practice scraping! Use webscraper.io to scrape this [simple countries of the world example](https://www.scrapethissite.com/pages/simple/). By Friday at 9:00 AM, send me a CSV of your results. 
 * Identify three other sites that contain data you might be interested in collecting. Think especially about different kinds of content, especially those related to arts, culture, and the humanities. Share them by Friday at 9:00 AM. 

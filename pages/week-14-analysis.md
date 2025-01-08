@@ -13,4 +13,4 @@ date: 2025-04-15
 
 ## Homework
 
-* Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250 words or so. Include 25-50 words about each person's contribution.
+* Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250 words or so. Also submit 50 words about your individual contribution to the week's work.
