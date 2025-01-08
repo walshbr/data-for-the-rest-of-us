@@ -8,7 +8,7 @@ date: 2025-04-29
 
 ## Plan
 
-* Final presentation of your dataset.
+* Final presentation of your dataset. Roughly 20 minutes for each group.
 
 ## Homework
 

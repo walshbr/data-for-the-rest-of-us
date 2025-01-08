@@ -17,9 +17,9 @@ Data science might feel like the domain of rarefied experts: computer scientists
 
 In this course, we'll use something called Specifications Grading. The goals of the system are to reduce the stress and mystery of grades while also raising academic standards. I chose this system to complement the technologies and digital methods we will be learning this term, as well as to combat grade anxiety. It is more important to me that you explore and experiment with these methods than it is that you get the "right answer." It's hard to feel comfortable experimenting and making mistakes if you're worried about every little point.
 
-Each assignment is marked as Complete/Incomplete according to a set of specifications as listed for each week. You must complete a certain number of assignments to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments to get the grade, with the caveat below about attendance. You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete. If you'd like to learn more, here's a resource from [UN-Lincoln](https://teaching.unl.edu/resources/alternative-grading/specification-grading/).
+Each assignment is marked as Complete/Incomplete according to a set of specifications as listed for each week and according to your good faith effort to excel with the task at hand (in other words, trying really hard and having trouble with technology still counts!). You must complete a certain number of assignments to receive the corresponding grade, as seen in the table below. This means that your grade is always going up as you complete more assignments. It also means that you must complete the requisite number of assignments to get the grade, with the caveat below about attendance. You will use Canvas to turn in assignments and to receive feedback. I will mark your assignments as complete/incomplete. If you'd like to learn more, here's a resource from [UN-Lincoln](https://teaching.unl.edu/resources/alternative-grading/specification-grading/).
 
-The course consists of 15 assignments due 9:00AM each Friday morning. In the first half of the course, these weekly assignments practice the current topic under discussion. In the second half of the course, these weekly assignments ask you to reflect on your individual contributions to the final project. More specific descriptions and expectations for each assignment are listed on the page for each week.
+The course consists of 15 assignments due 9:00AM each Friday morning. In the first half of the course, these weekly assignments practice the current topic under discussion. In the second half of the course, these weekly assignments reflect your scaffolded contributions to the final project. More specific descriptions and expectations for each assignment will be listed on the page for each week.
 
 Your final grade for the course, will be calculated based on your total number of assignments completed:
 
@@ -34,6 +34,9 @@ Your final grade for the course, will be calculated based on your total number o
 | 8 | C- |
 | 1-7 | D |
 
+## Late Assignments
+
+Because the course moves quickly and builds on itself, it's important to get your assignments in on time. If this becomes a problem, reach out to Brandon to discuss. 
 
 ## Attendance
 

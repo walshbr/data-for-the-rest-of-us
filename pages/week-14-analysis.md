@@ -9,7 +9,8 @@ date: 2025-04-15
 ## Plan
 
 * Work time to for analysis of your dataset.
+* Check-in's with Brandon for each group.
 
 ## Homework
 
-* Send provisional analyses of your dataset along to me by Friday at 9:00AM.
+* Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250 words or so. Include 25-50 words about each person's contribution.

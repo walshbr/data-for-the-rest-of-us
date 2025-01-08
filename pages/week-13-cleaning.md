@@ -9,7 +9,8 @@ date: 2025-04-08
 ## Plan
 
 * Work time to begin cleaning your project with Google Open Refine.
+* Check-in's with Brandon for each group.
 
 ## Homework
 
-* Send the cleaned dataset along to me by Friday at 9:00AM.
+* Send the cleaned dataset along to me by Friday at 9:00AM. Describe any issues in 100-150 words. It's ok if you need more time! Include 25-50 words about each person's contribution.
