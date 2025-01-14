@@ -21,7 +21,7 @@ date: 2025-01-14
 * We Data: An Icebreaking Activity
 * Discussion
 * Review syllabus
-* [Slides linked here](/resources/week-1/intro.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-1/intro.pptx)
 
 ## We Data: An Icebreaking Activity
 
