@@ -21,7 +21,7 @@ date: 2025-02-04
 
 * Introduction: On Gathering
 * Activity: Workshop on webscraper.io
-* [Slides linked here](/resources/week-4/collection.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-4/collection.pptx)
 
 ## Homework
 

@@ -20,7 +20,7 @@ date: 2025-02-11
 
 * Introduction: On Cleaning
 * Activity: Workshop on Google Open Refine
-* [Slides linked here](/resources/week-5/cleaning.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-5/cleaning.pptx)
 
 ## Homework
 

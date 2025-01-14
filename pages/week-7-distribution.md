@@ -20,7 +20,7 @@ date: 2025-02-25
 
 * Introduction: Publishing your Work
 * Activity: Return to Icebreaker Dataset
-* [Slides linked here](/resources/week-7/distribution.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-7/distribution.pptx)
 
 ---
 

@@ -20,7 +20,7 @@ date: 2025-01-28
 
 * Introduction: Formats and Standards
 * Activity: Organizing and Describing
-* [Slides linked here](/resources/week-3/description.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-3/description.pptx)
 
 ## Homework
 

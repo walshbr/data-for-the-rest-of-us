@@ -20,7 +20,7 @@ date: 2025-02-18
 
 * Introduction: Qualitative vs Quantitative Analysis
 * Activity: Workshop on Looker Studio
-* [Slides linked here](/resources/week-6/analysis.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-6/analysis.pptx)
 
 ## Homework
 
