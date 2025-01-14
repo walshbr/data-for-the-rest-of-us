@@ -27,7 +27,7 @@ date: 2025-01-21
 * Workshop: Is it Data? What don't you see?
     * What counts?
     * What don't you see?
-* [Slides linked here](/resources/week-2/identification.pptx)
+* [Slides linked here](/data-for-the-rest-of-us/resources/week-2/identification.pptx)
 
 ## Homework
 
