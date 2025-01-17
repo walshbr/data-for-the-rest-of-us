@@ -31,4 +31,4 @@ date: 2025-01-21
 
 ## Homework
 
-* Brainstorm a list of three datasets that don't seem to exist that you might be interested in. Give each one a 4-5 sentence description. Send your list to me by Friday at 9:00 AM.
+* Brainstorm a list of three datasets that don't seem to exist that you might be interested in. Give each one a 4-5 sentence description. Bonus points if they are related to the humanities in some way. Send your list to me by Friday at 9:00 AM.
