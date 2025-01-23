@@ -15,6 +15,7 @@ date: 2025-01-28
 
 * [Describing Data LibGuide](https://guides.lib.uci.edu/datamanagement/describe)
 * [What are Metadata Standards?](https://www.dcc.ac.uk/guidance/briefing-papers/standards-watch-papers/what-are-metadata-standards)
+* [Dublin Core Specifications](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) - you don't need to read this ahead of time but you'll need to have the link for class. 
 
 ## Plan
 
