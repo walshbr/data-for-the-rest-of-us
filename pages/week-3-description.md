@@ -25,4 +25,4 @@ date: 2025-01-28
 
 ## Homework
 
-* Select a cultural interest (film, books, music) of yours and manually create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Be detailed! Bonus points for using an established metadata standard. Submit Friday by 9:00 AM.
+* Select a cultural interest (film, books, music) of yours and manually create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Be detailed and use Dublin Core as your metadata standard. Submit Friday by 9:00 AM.
