@@ -15,6 +15,9 @@ date: 2025-02-11
 
 * [Open Refine Documentation](https://openrefine.org/docs); install and work through each piece of the documentation, stopping after you finish the section on reconciling. 
 * [Cleaning Data with Susan Walsh from the "Data Career Podcast"](https://podcasts.apple.com/us/podcast/33-cleaning-data-with-susan-walsh-the-classification-guru/id1547386535?i=1000543873861)
+* Download the datasets for use in class (leave them as zip files - don't uncompress them):
+    * [Audible Uncleaned](/data-for-the-rest-of-us/resources/audible_uncleaned.csv (1).zip)
+    * [Audible Cleaned](/data-for-the-rest-of-us/resources/audible_cleaned.csv (1).zip)
 
 ## Plan
 
