@@ -26,7 +26,6 @@ date: 2025-02-25
 
 ## Homework
 
-* As an individual, come up with three potential data sources to collect and hone into a final project. Email to me by 9:00 AM Friday. For each of them, share a link and a short description of it.
 * Meet in your groups to discuss your potential project ideas. As a group,you will each you will pitch three potential ideas to a group of judges next time. This means you will have to select which ideas you will propose. 
 
 And as a preview, your final outcome will entail the following, so you might want to touch on some pieces of this during your presentations.

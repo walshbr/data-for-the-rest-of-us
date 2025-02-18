@@ -25,3 +25,14 @@ date: 2025-02-18
 ## Homework
 
 * Use Looker Studio to tell a story about the data. By 9:00 AM send me a paragraph describing what you see and a screenshot of any visualization that is meaningful to you.
+* For your final project, come up with three potential data sources to collect and hone into a final project. Email to me by 9:00 AM Friday. For each of them, share a link, a short description, and some keywords describing your interests.
+    * (I’m going to try to group you into like-minded subject areas)
+* And as a preview, your final outcome will entail the following, so you might want to touch on some pieces of this during your presentations.
+    * Collected, cleaned dataset
+    * Data essay containing
+        * Metadata breakdown
+        * Narrative of the dataset
+        * Usage examples
+        * Basic analysis
+        * Credits
+        * Distributed to a repository (potentially!)
