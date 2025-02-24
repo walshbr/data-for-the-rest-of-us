@@ -26,9 +26,9 @@ date: 2025-02-25
 
 ## Homework
 
-* Meet in your groups to discuss your potential project ideas. As a group, you will each present for ten minutes and pitch three potential ideas to a group of judges next time. This means you will have to select which ideas you will propose.
+* Meet in your groups to discuss your potential project ideas. As a group, you will each present for ten minutes and pitch two potential ideas to a group of judges next time. This means you will have to select which ideas you will propose.
 
-Upload the list of your group’s three ideas and then some preliminary work towards the following, which are the questions to be answered in your presentations (it's fine if you're not finalized for Friday):
+Upload the list of your group’s two ideas and then some preliminary work towards the following, which are the questions to be answered in your presentations (it's fine if you're not finalized for Friday):
 
 * What is the dataset? Why do we care?
 * How viable does it seem to collect the data? to clean it?

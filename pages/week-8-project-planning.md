@@ -12,7 +12,7 @@ date: 2025-03-04
 
 ## Pre-work
 
-* Come prepared to present three potential final data sources for your final project. You'll be sharing them for a panel of judges to discuss as a group. 
+* Come prepared to present two potential final data sources for your final project. You'll be sharing them for a panel of judges to discuss as a group. 
 * Answer these questions in your presentations:
     * What is the dataset? Why do we care?
     * How viable does it seem to collect the data? to clean it?
@@ -23,7 +23,7 @@ date: 2025-03-04
 
 ## Plan
 
-* Student groups will pitch three potential ideas in groups for four to a panel of judges. 20 minutes max for each group.
+* Student groups will pitch two potential ideas in groups to a panel of judges. 10 minutes max for each group followed by five minutes of Q&A.
 
 ## Homework
 
