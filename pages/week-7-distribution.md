@@ -26,14 +26,13 @@ date: 2025-02-25
 
 ## Homework
 
-* Meet in your groups to discuss your potential project ideas. As a group,you will each you will pitch three potential ideas to a group of judges next time. This means you will have to select which ideas you will propose. 
+* Meet in your groups to discuss your potential project ideas. As a group, you will each present for ten minutes and pitch three potential ideas to a group of judges next time. This means you will have to select which ideas you will propose.
 
-And as a preview, your final outcome will entail the following, so you might want to touch on some pieces of this during your presentations.
+Upload the list of your group’s three ideas and then some preliminary work towards the following, which are the questions to be answered in your presentations (it's fine if you're not finalized for Friday):
 
-* Collected, cleaned dataset
-* Metadata breakdown
-* Narrative of the dataset
-* Usage examples
-* Basic analysis
-* Credits
-* Distributed to a repository (potentially!)
+* What is the dataset? Why do we care?
+* How viable does it seem to collect the data? to clean it?
+* What questions might someone answer with the dataset that can’t otherwise be answered?
+* Are there any concerns about doing this work on this data, ethical or legal?
+* What are the pro’s and cons of each data source?
+* Which stories are you most interested in?
