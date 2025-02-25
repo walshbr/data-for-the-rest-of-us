@@ -19,7 +19,7 @@ date: 2025-02-25
 ## Plan
 
 * Introduction: Publishing your Work
-* Activity: Return to Icebreaker Dataset
+* Activity: Work time towards final project
 * [Slides linked here](/data-for-the-rest-of-us/resources/week-7/distribution.pptx)
 
 ---
