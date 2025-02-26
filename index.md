@@ -43,3 +43,16 @@ Because the course moves quickly and builds on itself, it's important to get you
 You are allowed one absence in the course. Please let me know ASAP if you have issues. Once you have more than one absence, it will decrease your letter grade by 1/3 (B to B-, etc.). In addition, it is important to show up for each other in every sense of the word. Presence in the course each day involves active participation in both your group project, discussion, and more. 
 
 [^1]: Hat tip for much of this description goes to Mackenzie Brooks, the Digital Humanities Librarian at Washington and Lee University. Her implementation of specs grading can be found [here](https://mackenziekbrooks.github.io/dci101-f24/grading/).
+
+## Final Project Description
+
+Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the [Post45 Data Collective](https://data.post45.org/) and [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/). Your final product should include:
+
+* Collected, cleaned data
+* Metadata breakdown
+* Narrative of the dataset
+* Usage examples, suggestions, and questions it raises
+* Basic analysis
+* Credits
+
+The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there. 

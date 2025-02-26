@@ -14,3 +14,4 @@ date: 2025-04-22
 ## Homework
 
 * "Publish" your dataset and compiled documentation (all the different small components you have been working on) to Brandon by Friday at 9:00AM. Also submit 50 words about your individual contribution to the week's work.
+* Also work with Brandon to upload your work [Dataverse](https://dataverse.lib.virginia.edu/).
