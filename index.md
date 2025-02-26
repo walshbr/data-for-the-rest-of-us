@@ -46,7 +46,7 @@ You are allowed one absence in the course. Please let me know ASAP if you have i
 
 ## Final Project Description
 
-Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the [Post45 Data Collective](https://data.post45.org/) and [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/). Your final product should include:
+Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the datasets shared on the [Post45 Data Collective](https://data.post45.org/) and [Responsible Datasets in Context](https://www.responsible-datasets-in-context.com/). Your final product should include:
 
 * Collected, cleaned data
 * Metadata breakdown
@@ -54,5 +54,6 @@ Follow the steps of the course units to create a dataset and accompanying narrat
 * Usage examples, suggestions, and questions it raises
 * Basic analysis
 * Credits
+* Licensing information
 
-The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there. 
+The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there.
