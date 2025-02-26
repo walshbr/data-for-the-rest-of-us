@@ -32,7 +32,7 @@ date: 2025-03-04
 
 ## Homework
 
-* Submit a short write-up of your group's ideas by Friday at 9:00AM. One single-spaced page max, so roughly one paragraph for each idea. Rank them based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. 
+* Submit a short write-up of your group's ideas by Friday at 9:00AM. 1-2 single-spaced pages max. Rank the two pages based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. 
 
 ---
 

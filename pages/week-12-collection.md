@@ -8,9 +8,12 @@ date: 2025-04-01
 
 ## Plan
 
+* Scrum presentations
 * Work time to plan for and then collect the data for your project using webscraper.io.
-* Check-in's with Brandon for each group.
+* Brandon available for check-in's and questions
+
 
 ## Homework
 
-* Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 100-150 words. Also submit 50 words about your individual contribution to the week's work.
+* Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 200 words (or more if you need it). 
+* Also submit 50 words about your individual contribution to the week's work.
