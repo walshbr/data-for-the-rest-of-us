@@ -9,6 +9,10 @@ date: 2025-04-22
 ## Plan
 
 * Scrum presentations
+    * Three minutes max for each group on…
+        * what you have done
+        * what is next
+        * what you need from someone else (your group members, me)
 * Work time to develop and implement the distribution plan for your dataset.
 * Brandon available for check-in's and questions
 

@@ -9,6 +9,10 @@ date: 2025-03-18
 ## Plan
 
 * Scrum presentations
+    * Three minutes max for each group on…
+        * what you have done
+        * what is next
+        * what you need from someone else (your group members, me)
 * Work time for identification of your shared data project and to develop a plan for how the work will go. 
 * Brandon available for check-in's and questions
 

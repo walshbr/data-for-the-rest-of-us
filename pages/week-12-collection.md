@@ -9,6 +9,10 @@ date: 2025-04-01
 ## Plan
 
 * Scrum presentations
+    * Three minutes max for each group on…
+        * what you have done
+        * what is next
+        * what you need from someone else (your group members, me)
 * Work time to plan for and then collect the data for your project using webscraper.io.
 * Brandon available for check-in's and questions
 

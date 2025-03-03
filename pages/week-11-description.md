@@ -9,6 +9,10 @@ date: 2025-03-25
 ## Plan
 
 * Scrum presentations
+    * Three minutes max for each group on…
+        * what you have done
+        * what is next
+        * what you need from someone else (your group members, me)
 * Work time to finalize the description of your shared data project. Focus on metadata schema. 
 * Brandon available for check-in's and questions
 
