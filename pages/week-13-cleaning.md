@@ -9,6 +9,10 @@ date: 2025-04-08
 ## Plan
 
 * Scrum presentations
+    * Three minutes max for each group on…
+        * what you have done
+        * what is next
+        * what you need from someone else (your group members, me)
 * Work time to begin cleaning your project with Google Open Refine.
 * Brandon available for check-in's and questions
 
