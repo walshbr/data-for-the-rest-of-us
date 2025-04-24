@@ -28,3 +28,4 @@ The resulting work will probably be around 5-7 pages altogether, and you have mi
 
 * Celebrate!
 * Upload a 200 word reflection on your group presentation, your finalized dataset, and your data narrative.
+* Make sure you have your final project narrative and dataset shared with Brandon by the end of the week if possible.
