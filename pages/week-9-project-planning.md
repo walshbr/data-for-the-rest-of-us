@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Week 8 - Project Planning
-permalink: /week-8-project-planning/
+title: Week 9 - Project Planning
+permalink: /week-9-project-planning/
 nav_order: 18
-date: 2025-03-04
+date: 2025-10-21
 ---
 
 ## Guiding Questions

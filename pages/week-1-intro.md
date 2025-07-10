@@ -3,7 +3,7 @@ layout: page
 title: Week 1 - Introduction
 permalink: /week-1-intro/
 nav_order: 11
-date: 2025-01-14
+date: 2025-08-26
 ---
 
 ## Guiding Questions

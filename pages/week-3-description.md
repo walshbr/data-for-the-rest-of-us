@@ -3,7 +3,7 @@ layout: page
 title: Week 3 - Description
 permalink: /week-3-description/
 nav_order: 13
-date: 2025-01-28
+date: 2025-09-09
 ---
 
 ## Guiding Questions

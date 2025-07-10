@@ -3,7 +3,7 @@ layout: page
 title: Week 4 - Collection
 permalink: /week-4-collection/
 nav_order: 14
-date: 2025-02-04
+date: 2025-09-16
 ---
 
 ## Guiding Questions
