@@ -7,7 +7,7 @@ layout: home
 ## Course Info
 
 * Dr. Brandon Walsh
-* Spring 2025
+* Fall 2025
 * Shannon 317
 * Office Hours: Thursdays 10:00AM-12:00PM in person in Shannon 308 office or Fridays 10:00AM-12:00PM on zoom (but email first to ensure availability!)
 
