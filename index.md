@@ -34,6 +34,8 @@ Your final grade for the course, will be calculated based on your total number o
 | 8 | C- |
 | 1-7 | D |
 
+For each week, even those weeks when you will be working as a group, you must ensure that you have all expected pieces uploaded to your own Canvas account. This means that each group member will likely upload a version of the same document as well as a write up of your own contribution.
+
 ## Late Assignments
 
 Because the course moves quickly and builds on itself, it's important to get your assignments in on time. If this becomes a problem, reach out to Brandon to discuss to see if we can work out alternatives for you. 

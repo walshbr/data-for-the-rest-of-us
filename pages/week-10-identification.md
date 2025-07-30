@@ -19,4 +19,4 @@ date: 2025-10-28
 ## Homework
 
 * Send your group's selected topic and planned dataset to me by Friday at 9:00 AM. As a group, describe in 200 words (or more if you need it) why it matters, where it comes from, how you will collect it.
-* Also submit 50 words about your individual contribution to the week's work.
+* Also submit 200 words about your individual contribution to the week's work.

@@ -29,7 +29,7 @@
   },"4": {
     "doc": "Week 1 - Introduction",
     "title": "Homework",
-    "content": ". | By Friday morning at 9:00 AM, share your class dataset with me along with a 50-100 word reflection on the activity. What was the most challenging piece? What did you learn? | . ",
+    "content": ". | By Friday morning at 9:00 AM, share your class dataset with me along with a 200 word reflection on the activity. What was the most challenging piece? What did you learn? | . ",
     "url": "/week-1-intro/#homework",
     
     "relUrl": "/week-1-intro/#homework"
@@ -50,7 +50,7 @@
   },"7": {
     "doc": "Week 10 - Identification",
     "title": "Homework",
-    "content": ". | Send your group’s selected topic and planned dataset to me by Friday at 9:00 AM. As a group, describe in 200 words (or more if you need it) why it matters, where it comes from, how you will collect it. | Also submit 50 words about your individual contribution to the week’s work. | . ",
+    "content": ". | Send your group’s selected topic and planned dataset to me by Friday at 9:00 AM. As a group, describe in 200 words (or more if you need it) why it matters, where it comes from, how you will collect it. | Also submit 200 words about your individual contribution to the week’s work. | . ",
     "url": "/week-10-identification/#homework",
     
     "relUrl": "/week-10-identification/#homework"
@@ -62,26 +62,26 @@
     
     "relUrl": "/week-10-identification/"
   },"9": {
-    "doc": "Week 11 - Description",
+    "doc": "Week 11 - Election Day",
     "title": "Plan",
-    "content": ". | Scrum presentations . | Three minutes max for each group on… . | what you have done | what is next | what you need from someone else (your group members, me) | . | . | Work time to finalize the description of your shared data project. Focus on metadata schema. | Brandon available for check-in’s and questions | . ",
-    "url": "/week-11-description/#plan",
+    "content": "No meeting because of election day but homework on “Description” still due by end of the week. ",
+    "url": "/week-11-election-day/#plan",
     
-    "relUrl": "/week-11-description/#plan"
+    "relUrl": "/week-11-election-day/#plan"
   },"10": {
-    "doc": "Week 11 - Description",
+    "doc": "Week 11 - Election Day",
     "title": "Homework",
     "content": ". | Send the full metadata schema and breakdown for the data you will be collecting for your project by Friday at 9:00AM. Describe in 200 words (or more if you need it) what sorts of decisions were necessary to come to in deciding on this schema? What stories will or will not be told? | Also submit 50 words about your individual contribution to the week’s work. | . ",
-    "url": "/week-11-description/#homework",
+    "url": "/week-11-election-day/#homework",
     
-    "relUrl": "/week-11-description/#homework"
+    "relUrl": "/week-11-election-day/#homework"
   },"11": {
-    "doc": "Week 11 - Description",
-    "title": "Week 11 - Description",
+    "doc": "Week 11 - Election Day",
+    "title": "Week 11 - Election Day",
     "content": " ",
-    "url": "/week-11-description/",
+    "url": "/week-11-election-day/",
     
-    "relUrl": "/week-11-description/"
+    "relUrl": "/week-11-election-day/"
   },"12": {
     "doc": "Week 12 - Collection",
     "title": "Plan",
@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Week 12 - Collection",
     "title": "Homework",
-    "content": ". | Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 200 words (or more if you need it). | Also submit 50 words about your individual contribution to the week’s work. | . ",
+    "content": ". | Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 200 words (or more if you need it). | Also submit 200 words about your individual contribution to the week’s work. | . ",
     "url": "/week-12-collection/#homework",
     
     "relUrl": "/week-12-collection/#homework"
@@ -106,14 +106,14 @@
   },"15": {
     "doc": "Week 13 - Cleaning",
     "title": "Plan",
-    "content": ". | Scrum presentations | Work time to begin cleaning your project with Google Open Refine. | Brandon available for check-in’s and questions | . ",
+    "content": ". | Scrum presentations . | Three minutes max for each group on… . | what you have done | what is next | what you need from someone else (your group members, me) | . | . | Work time to begin cleaning your project with Google Open Refine. | Brandon available for check-in’s and questions | . ",
     "url": "/week-13-cleaning/#plan",
     
     "relUrl": "/week-13-cleaning/#plan"
   },"16": {
     "doc": "Week 13 - Cleaning",
     "title": "Homework",
-    "content": ". | Send the cleaned dataset along to me by Friday at 9:00AM. Describe what you had to do to process the materials in 200 words. What decisions did you have to make? | Also submit 50 words about your individual contribution to the week’s work. | . ",
+    "content": ". | Send the cleaned dataset along to me by Friday at 9:00AM. Describe what you had to do to process the materials in 200 words. What decisions did you have to make? | Also submit 200 words about your individual contribution to the week’s work. | . ",
     "url": "/week-13-cleaning/#homework",
     
     "relUrl": "/week-13-cleaning/#homework"
@@ -127,14 +127,14 @@
   },"18": {
     "doc": "Week 14 - Analysis",
     "title": "Plan",
-    "content": ". | Scrum presentations | Work time for analysis of your dataset | Brandon available for check-in’s and questions | . ",
+    "content": ". | Scrum presentations . | Three minutes max for each group on… . | what you have done | what is next | what you need from someone else (your group members, me) | . | . | Work time for analysis of your dataset | Brandon available for check-in’s and questions | . ",
     "url": "/week-14-analysis/#plan",
     
     "relUrl": "/week-14-analysis/#plan"
   },"19": {
     "doc": "Week 14 - Analysis",
     "title": "Homework",
-    "content": ". | Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250-500 words or so. | Also submit 50 words about your individual contribution to the week’s work. | . ",
+    "content": ". | Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250-500 words or so. | Also submit 200 words about your individual contribution to the week’s work. | . ",
     "url": "/week-14-analysis/#homework",
     
     "relUrl": "/week-14-analysis/#homework"
@@ -154,304 +154,318 @@
     "relUrl": "/week-15-distribution/#plan"
   },"22": {
     "doc": "Week 15 - Distribution",
+    "title": "Final Project Description",
+    "content": "Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the datasets shared on the Post45 Data Collective and Responsible Datasets in Context. Your final product should include: . | Collected, cleaned data | Metadata breakdown | Narrative of the dataset | Usage examples, suggestions, and questions it raises | Basic analysis | Credits | Licensing information | . The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there. ",
+    "url": "/week-15-distribution/#final-project-description",
+    
+    "relUrl": "/week-15-distribution/#final-project-description"
+  },"23": {
+    "doc": "Week 15 - Distribution",
     "title": "Homework",
-    "content": ". | “Publish” your dataset and compiled documentation (all the different small components you have been working on) to Brandon by Friday at 9:00AM. Also submit 50 words about your individual contribution to the week’s work. | Also work with Brandon to upload your work to Dataverse. | . ",
+    "content": ". | “Publish” your dataset and compiled documentation (all the different small components you have been working on) to Brandon by Friday at 9:00AM. Also submit 200 words about your individual contribution to the week’s work. | This might involve uploading your work to Dataverse, sharing back with the groups who own your data, or deciding not to distribute. If you have concerns, talk to Brandon. | . ",
     "url": "/week-15-distribution/#homework",
     
     "relUrl": "/week-15-distribution/#homework"
-  },"23": {
+  },"24": {
     "doc": "Week 15 - Distribution",
     "title": "Week 15 - Distribution",
     "content": " ",
     "url": "/week-15-distribution/",
     
     "relUrl": "/week-15-distribution/"
-  },"24": {
+  },"25": {
     "doc": "Week 16 - Presentation",
     "title": "Plan",
-    "content": ". | Final presentation of your dataset. Roughly 15 minutes for each group. | . ",
+    "content": ". | Final presentation of your dataset. Roughly 15 minutes for each group. Plan on walking through the various components of your final presentation. | . ",
     "url": "/week-16-presentation/#plan",
     
     "relUrl": "/week-16-presentation/#plan"
-  },"25": {
+  },"26": {
+    "doc": "Week 16 - Presentation",
+    "title": "Final Project Description",
+    "content": "Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the datasets shared on the Post45 Data Collective and Responsible Datasets in Context. Your final product should include: . | Collected, cleaned data | Metadata breakdown | Narrative of the dataset | Usage examples, suggestions, and questions it raises | Basic analysis | Credits | Licensing information | . The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there. ",
+    "url": "/week-16-presentation/#final-project-description",
+    
+    "relUrl": "/week-16-presentation/#final-project-description"
+  },"27": {
     "doc": "Week 16 - Presentation",
     "title": "Homework",
-    "content": ". | Celebrate! | Upload a 200 word reflection on your group presentation, your finalized dataset, and your data narrative. | . ",
+    "content": ". | Celebrate! | Upload an individual 200 word reflection on your group presentation, your finalized dataset, and your data narrative. | Make sure you have your final project narrative and dataset shared with Brandon by the end of the week if possible. | . ",
     "url": "/week-16-presentation/#homework",
     
     "relUrl": "/week-16-presentation/#homework"
-  },"26": {
+  },"28": {
     "doc": "Week 16 - Presentation",
     "title": "Week 16 - Presentation",
     "content": " ",
     "url": "/week-16-presentation/",
     
     "relUrl": "/week-16-presentation/"
-  },"27": {
+  },"29": {
     "doc": "Week 2 - Identification",
     "title": "Guiding Questions",
     "content": ". | What counts? | Where can you find it? | How do you tell what is missing? | . ",
     "url": "/week-2-identification/#guiding-questions",
     
     "relUrl": "/week-2-identification/#guiding-questions"
-  },"28": {
+  },"30": {
     "doc": "Week 2 - Identification",
     "title": "Pre-work",
     "content": ". | Wikipedia Definition of Data | Explore . | US Government’s Open Data | Google Datasets | Awesome Public Datasets | . | On Missing Data Sets | . ",
     "url": "/week-2-identification/#pre-work",
     
     "relUrl": "/week-2-identification/#pre-work"
-  },"29": {
+  },"31": {
     "doc": "Week 2 - Identification",
     "title": "Plan",
     "content": ". | Introduction: “Data: A Definition” | Workshop: Is it Data? What don’t you see? . | What counts? | What don’t you see? | . | Slides linked here | . ",
     "url": "/week-2-identification/#plan",
     
     "relUrl": "/week-2-identification/#plan"
-  },"30": {
+  },"32": {
     "doc": "Week 2 - Identification",
     "title": "Homework",
     "content": ". | Brainstorm a list of three datasets that don’t seem to exist that you might be interested in. Give each one a 4-5 sentence description. Bonus points if they are related to the humanities in some way. Send your list to me by Friday at 9:00 AM. | . ",
     "url": "/week-2-identification/#homework",
     
     "relUrl": "/week-2-identification/#homework"
-  },"31": {
+  },"33": {
     "doc": "Week 2 - Identification",
     "title": "Week 2 - Identification",
     "content": " ",
     "url": "/week-2-identification/",
     
     "relUrl": "/week-2-identification/"
-  },"32": {
+  },"34": {
     "doc": "Week 3 - Description",
     "title": "Guiding Questions",
     "content": ". | How do we describe data? | What are metadata standards? | . ",
     "url": "/week-3-description/#guiding-questions",
     
     "relUrl": "/week-3-description/#guiding-questions"
-  },"33": {
+  },"35": {
     "doc": "Week 3 - Description",
     "title": "Pre-work",
     "content": ". | Describing Data LibGuide | What are Metadata Standards? | Dublin Core Specifications - you don’t need to read this ahead of time but you’ll need to have the link for class. | . ",
     "url": "/week-3-description/#pre-work",
     
     "relUrl": "/week-3-description/#pre-work"
-  },"34": {
+  },"36": {
     "doc": "Week 3 - Description",
     "title": "Plan",
     "content": ". | Introduction: Formats and Standards | Activity: Organizing and Describing | Slides linked here | . ",
     "url": "/week-3-description/#plan",
     
     "relUrl": "/week-3-description/#plan"
-  },"35": {
+  },"37": {
     "doc": "Week 3 - Description",
     "title": "Homework",
     "content": ". | Select a cultural interest (film, books, music) of yours and manually create a dataset from it. You should have at least 10 objects in your dataset with five metadata categories each. Be detailed and use Dublin Core as your metadata standard. Submit Friday by 9:00 AM. | . ",
     "url": "/week-3-description/#homework",
     
     "relUrl": "/week-3-description/#homework"
-  },"36": {
+  },"38": {
     "doc": "Week 3 - Description",
     "title": "Week 3 - Description",
     "content": " ",
     "url": "/week-3-description/",
     
     "relUrl": "/week-3-description/"
-  },"37": {
+  },"39": {
     "doc": "Week 4 - Collection",
     "title": "Guiding Questions",
     "content": ". | What are tools for gathering materials? | What are issues in the use of these tools? | . ",
     "url": "/week-4-collection/#guiding-questions",
     
     "relUrl": "/week-4-collection/#guiding-questions"
-  },"38": {
+  },"40": {
     "doc": "Week 4 - Collection",
     "title": "Pre-work",
     "content": ". | Data Collection | Install and work through webscraper.io documentation | . ",
     "url": "/week-4-collection/#pre-work",
     
     "relUrl": "/week-4-collection/#pre-work"
-  },"39": {
+  },"41": {
     "doc": "Week 4 - Collection",
     "title": "Plan",
     "content": ". | Introduction: On Gathering | Activity: Workshop on webscraper.io | Slides linked here | . ",
     "url": "/week-4-collection/#plan",
     
     "relUrl": "/week-4-collection/#plan"
-  },"40": {
+  },"42": {
     "doc": "Week 4 - Collection",
     "title": "Homework",
     "content": ". | Practice scraping! Use webscraper.io to scrape this simple countries of the world example. By Friday at 9:00 AM, send me a CSV of your results. | Identify three other sites that contain data you might be interested in collecting. Think especially about different kinds of content, especially those related to arts, culture, and the humanities. Share them by Friday at 9:00 AM. | . ",
     "url": "/week-4-collection/#homework",
     
     "relUrl": "/week-4-collection/#homework"
-  },"41": {
+  },"43": {
     "doc": "Week 4 - Collection",
     "title": "Week 4 - Collection",
     "content": " ",
     "url": "/week-4-collection/",
     
     "relUrl": "/week-4-collection/"
-  },"42": {
+  },"44": {
     "doc": "Week 5 - Cleaning",
     "title": "Guiding Questions",
     "content": ". | What is the importance of clean, tidy data? | How do we fix problems with our data? | . ",
     "url": "/week-5-cleaning/#guiding-questions",
     
     "relUrl": "/week-5-cleaning/#guiding-questions"
-  },"43": {
+  },"45": {
     "doc": "Week 5 - Cleaning",
     "title": "Pre-work",
     "content": ". | Open Refine Documentation; install and work through each piece of the documentation, stopping after you finish the section on reconciling. | Matt Lincoln on Tidy Data | Download the Audible datasets for use in class. Taken from this kaggle repository Leave them as zip files - don’t uncompress them. Download links: . | Audible Uncleaned | Audible Cleaned | . | . ",
     "url": "/week-5-cleaning/#pre-work",
     
     "relUrl": "/week-5-cleaning/#pre-work"
-  },"44": {
+  },"46": {
     "doc": "Week 5 - Cleaning",
     "title": "Plan",
     "content": ". | Introduction: On Cleaning | Activity: Workshop on Google Open Refine | Slides linked here | . ",
     "url": "/week-5-cleaning/#plan",
     
     "relUrl": "/week-5-cleaning/#plan"
-  },"45": {
+  },"47": {
     "doc": "Week 5 - Cleaning",
     "title": "Homework",
     "content": ". | Work through this lesson on The Programming Historian. Send a screenshot of your successful results along by Friday at 9:00 AM. | . ",
     "url": "/week-5-cleaning/#homework",
     
     "relUrl": "/week-5-cleaning/#homework"
-  },"46": {
+  },"48": {
     "doc": "Week 5 - Cleaning",
     "title": "Week 5 - Cleaning",
     "content": " ",
     "url": "/week-5-cleaning/",
     
     "relUrl": "/week-5-cleaning/"
-  },"47": {
+  },"49": {
     "doc": "Week 6 - Analysis",
     "title": "Guiding Questions",
     "content": ". | How does all the work we have done so far enable us to ask new questions of our materials? | How do quantitative and qualitative analyses relate to one another? | . ",
     "url": "/week-6-analysis/#guiding-questions",
     
     "relUrl": "/week-6-analysis/#guiding-questions"
-  },"48": {
+  },"50": {
     "doc": "Week 6 - Analysis",
     "title": "Pre-work",
     "content": ". | Qualitative vs Quantitative Research | Looker Studio Tutorial for Beginners. Try to follow on your own. | . ",
     "url": "/week-6-analysis/#pre-work",
     
     "relUrl": "/week-6-analysis/#pre-work"
-  },"49": {
+  },"51": {
     "doc": "Week 6 - Analysis",
     "title": "Plan",
     "content": ". | Introduction: Qualitative vs Quantitative Analysis | Activity: Workshop on Looker Studio | Slides linked here | . ",
     "url": "/week-6-analysis/#plan",
     
     "relUrl": "/week-6-analysis/#plan"
-  },"50": {
+  },"52": {
     "doc": "Week 6 - Analysis",
     "title": "Homework",
     "content": ". | Use Looker Studio to tell a story about the data. By 9:00 AM send me a paragraph describing what you see and a screenshot of any visualization that is meaningful to you. | For your final project, come up with three potential data sources to collect and hone into a final project. Email to me by 9:00 AM Friday. For each of them, share a link, a short description, and some keywords describing your interests. | (I’m going to try to group you into like-minded subject areas) | . | And as a preview, your final outcome will entail the following, so you might want to touch on some pieces of this during your presentations. | Collected, cleaned dataset | Data essay containing . | Metadata breakdown | Narrative of the dataset | Usage examples | Basic analysis | Credits | Distributed to a repository (potentially!) | . | . | . ",
     "url": "/week-6-analysis/#homework",
     
     "relUrl": "/week-6-analysis/#homework"
-  },"51": {
+  },"53": {
     "doc": "Week 6 - Analysis",
     "title": "Week 6 - Analysis",
     "content": " ",
     "url": "/week-6-analysis/",
     
     "relUrl": "/week-6-analysis/"
-  },"52": {
+  },"54": {
     "doc": "Week 7 - Distribution",
     "title": "Guiding Questions",
     "content": ". | How and why do you share your work? | How do you do so in a form that is usable for others? | . ",
     "url": "/week-7-distribution/#guiding-questions",
     
     "relUrl": "/week-7-distribution/#guiding-questions"
-  },"53": {
+  },"55": {
     "doc": "Week 7 - Distribution",
     "title": "Pre-work",
     "content": ". | Explore Post45 Data Collective | Explore Responsible Datasets in Context | . ",
     "url": "/week-7-distribution/#pre-work",
     
     "relUrl": "/week-7-distribution/#pre-work"
-  },"54": {
+  },"56": {
     "doc": "Week 7 - Distribution",
     "title": "Plan",
     "content": ". | Introduction: Publishing your Work | Activity: Work time towards final project | Slides linked here | . ",
     "url": "/week-7-distribution/#plan",
     
     "relUrl": "/week-7-distribution/#plan"
-  },"55": {
+  },"57": {
     "doc": "Week 7 - Distribution",
     "title": "Homework",
     "content": ". | Meet in your groups to discuss your potential project ideas. As a group, you will each present for ten minutes and pitch two potential ideas to a group of judges next time. This means you will have to select which ideas you will propose. | . Upload the list of your group’s two ideas and then some preliminary work towards the following, which are the questions to be answered in your presentations (it’s fine if you’re not finalized for Friday): . | What is the dataset? Why do we care? | How viable does it seem to collect the data? to clean it? | What questions might someone answer with the dataset that can’t otherwise be answered? | Are there any concerns about doing this work on this data, ethical or legal? | What are the pro’s and cons of each data source? | Which stories are you most interested in? | . ",
     "url": "/week-7-distribution/#homework",
     
     "relUrl": "/week-7-distribution/#homework"
-  },"56": {
+  },"58": {
     "doc": "Week 7 - Distribution",
     "title": "Week 7 - Distribution",
     "content": " ",
     "url": "/week-7-distribution/",
     
     "relUrl": "/week-7-distribution/"
-  },"57": {
-    "doc": "Week 8 - Project Planning",
+  },"59": {
+    "doc": "Week 8 - Reading Day",
+    "title": "Week 8 - Reading Day",
+    "content": "No session . ",
+    "url": "/week-9-reading-day/",
+    
+    "relUrl": "/week-9-reading-day/"
+  },"60": {
+    "doc": "Week 9 - Project Planning",
     "title": "Guiding Questions",
     "content": ". | What will you work on for the remainder of the course? | . ",
-    "url": "/week-8-project-planning/#guiding-questions",
+    "url": "/week-9-project-planning/#guiding-questions",
     
-    "relUrl": "/week-8-project-planning/#guiding-questions"
-  },"58": {
-    "doc": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#guiding-questions"
+  },"61": {
+    "doc": "Week 9 - Project Planning",
     "title": "Pre-work",
     "content": ". | Come prepared to present two potential final data sources for your final project. You’ll be sharing them for a panel of judges to discuss as a group. | Answer these questions in your presentations: . | What is the dataset? Why do we care? | How viable does it seem to collect the data? to clean it? | What questions might someone answer with the dataset that can’t otherwise be answered? | Are there any concerns about doing this work on this data, ethical or legal? | What are the pro’s and cons of each data source? | Which stories are you most interested in? | . | . ",
-    "url": "/week-8-project-planning/#pre-work",
+    "url": "/week-9-project-planning/#pre-work",
     
-    "relUrl": "/week-8-project-planning/#pre-work"
-  },"59": {
-    "doc": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#pre-work"
+  },"62": {
+    "doc": "Week 9 - Project Planning",
     "title": "Plan",
     "content": ". | Student groups will pitch two potential ideas in groups to a panel of judges. 10 minutes max for each group followed by five minutes of Q&amp;A. | Group 1 - cooking | Group 2 - libraries and museums | Group 3 - games | Group 4 - politics and economics | . ",
-    "url": "/week-8-project-planning/#plan",
+    "url": "/week-9-project-planning/#plan",
     
-    "relUrl": "/week-8-project-planning/#plan"
-  },"60": {
-    "doc": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#plan"
+  },"63": {
+    "doc": "Week 9 - Project Planning",
     "title": "Homework",
-    "content": ". | Submit a short write-up of your group’s ideas by Friday at 9:00AM. 1-2 single-spaced pages max. Rank the two pages based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. | . ",
-    "url": "/week-8-project-planning/#homework",
+    "content": ". | Submit a short write-up of your group’s ideas by Friday at 9:00AM. 1-2 single-spaced pages max. Rank the ideas based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. | . ",
+    "url": "/week-9-project-planning/#homework",
     
-    "relUrl": "/week-8-project-planning/#homework"
-  },"61": {
-    "doc": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#homework"
+  },"64": {
+    "doc": "Week 9 - Project Planning",
     "title": "Final Project Description",
     "content": "Follow the steps of the course units to create a dataset and accompanying narrative. The outcome will look similar to the datasets shared on the Post45 Data Collective and Responsible Datasets in Context. Your final product should include: . | Collected, cleaned data | Metadata breakdown | Narrative of the dataset | Usage examples, suggestions, and questions it raises | Basic analysis | Credits | Licensing information | . The resulting work will probably be around 5-7 pages altogether, and you have milestones to hit along the way to get you there. ",
-    "url": "/week-8-project-planning/#final-project-description",
+    "url": "/week-9-project-planning/#final-project-description",
     
-    "relUrl": "/week-8-project-planning/#final-project-description"
-  },"62": {
-    "doc": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#final-project-description"
+  },"65": {
+    "doc": "Week 9 - Project Planning",
     "title": "Information for Judges",
     "content": "You will be observing four different group presentations. Each group has been told they will get about 15 minutes, with 10 minutes for the presentation and 5 minutes for responses from you all. They will be presenting two project ideas each. See above for context about the final project as well as these presentations. My hope is that you will help provide feedback to shape the ideas into workable and exciting options for a final project: . | Which idea seems more doable or exciting? | Are there major red flags or ethical concerns? | Does it seem well scoped? | If too big or small, can you provide thoughts to scope it in either direction? | Are there technical limitations the students need to watch out for? Any other thoughts? | Of the two ideas, which one seems better given all this? | . If you’re more of a rubric person, I might go with two categories and rank them out of 10: . | Doable | Valuable | . ",
-    "url": "/week-8-project-planning/#information-for-judges",
+    "url": "/week-9-project-planning/#information-for-judges",
     
-    "relUrl": "/week-8-project-planning/#information-for-judges"
-  },"63": {
-    "doc": "Week 8 - Project Planning",
-    "title": "Week 8 - Project Planning",
+    "relUrl": "/week-9-project-planning/#information-for-judges"
+  },"66": {
+    "doc": "Week 9 - Project Planning",
+    "title": "Week 9 - Project Planning",
     "content": " ",
-    "url": "/week-8-project-planning/",
+    "url": "/week-9-project-planning/",
     
-    "relUrl": "/week-8-project-planning/"
-  },"64": {
-    "doc": "Week 9 - Spring Break",
-    "title": "Week 9 - Spring Break",
-    "content": "No session . ",
-    "url": "/week-9-spring-break/",
-    
-    "relUrl": "/week-9-spring-break/"
+    "relUrl": "/week-9-project-planning/"
   }
 }

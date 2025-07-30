@@ -1,20 +1,14 @@
 ---
 layout: page
-title: Week 11 - Description
-permalink: /week-11-description/
+title: Week 11 - Election Day
+permalink: /week-11-election-day/
 nav_order: 21
 date: 2025-11-04
 ---
 
 ## Plan
 
-* Scrum presentations
-    * Three minutes max for each group on…
-        * what you have done
-        * what is next
-        * what you need from someone else (your group members, me)
-* Work time to finalize the description of your shared data project. Focus on metadata schema. 
-* Brandon available for check-in's and questions
+No meeting because of election day but homework on "Description" still due by end of the week.
 
 ## Homework
 
