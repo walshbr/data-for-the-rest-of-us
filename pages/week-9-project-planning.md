@@ -25,14 +25,14 @@ date: 2025-10-21
 
 * Student groups will pitch two potential ideas in groups to a panel of judges. 10 minutes max for each group followed by five minutes of Q&A.
 
-* Group 1 - cooking
-* Group 2 - libraries and museums
-* Group 3 - games
-* Group 4 - politics and economics
+* Group 1 - politics
+* Group 2 - music 1
+* Group 3 - music 2
+* Group 4 - music 3
 
 ## Homework
 
-* Submit a short write-up of your group's ideas by Friday at 9:00AM. 1-2 single-spaced pages max. Rank the ideas based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. 
+* Submit a short write-up of your group's ideas to Canvas by Friday at 9:00AM. 1-2 single-spaced pages max. Rank the ideas based on your interest and how feasible they seem. If you have decided as a group on which is best, great. Otherwise Brandon will pick for you if you ask him to do so. 
 
 ---
 
