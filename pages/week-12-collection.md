@@ -19,5 +19,5 @@ date: 2025-11-11
 
 ## Homework
 
-* Send the raw dataset along to Brandon by Friday at 9:00AM. Describe any issues in 200 words (or more if you need it). 
+* Upload the raw dataset to Canvas by Friday at 9:00AM. Describe any issues in 200 words (or more if you need it). 
 * Also submit 200 words about your individual contribution to the week's work.

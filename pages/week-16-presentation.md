@@ -27,5 +27,5 @@ The resulting work will probably be around 5-7 pages altogether, and you have mi
 ## Homework
 
 * Celebrate!
-* Upload an individual 200 word reflection on your group presentation, your finalized dataset, and your data narrative.
-* Make sure you have your final project narrative and dataset shared with Brandon by the end of the week if possible.
+* Upload to Canvas an individual 200 word reflection on your group presentation, your finalized dataset, and your data narrative.
+* Make sure you have your final project narrative and dataset uploaded to Canvas by the end of the week if possible.

@@ -18,5 +18,5 @@ date: 2025-11-18
 
 ## Homework
 
-* Send the cleaned dataset along to me by Friday at 9:00AM. Describe what you had to do to process the materials in 200 words. What decisions did you have to make? 
+* Upload the cleaned dataset along to Canvas by Friday at 9:00AM. Describe what you had to do to process the materials in 200 words. What decisions did you have to make? 
 * Also submit 200 words about your individual contribution to the week's work.

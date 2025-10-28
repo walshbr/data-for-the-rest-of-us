@@ -18,5 +18,5 @@ date: 2025-11-25
 
 ## Homework
 
-* Send provisional analyses of your dataset along to Brandon by Friday at 9:00AM. Limit to 250-500 words or so. 
+* Upload provisional analyses of your dataset to Canvas by Friday at 9:00AM. Limit to 250-500 words or so. 
 * Also submit 200 words about your individual contribution to the week's work.

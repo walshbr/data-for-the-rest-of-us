@@ -32,5 +32,5 @@ The resulting work will probably be around 5-7 pages altogether, and you have mi
 
 ## Homework
 
-* "Publish" your dataset and compiled documentation (all the different small components you have been working on) to Brandon by Friday at 9:00AM. Also submit 200 words about your individual contribution to the week's work.
+* "Publish" your dataset and compiled documentation (all the different small components you have been working on) on Canvas by Friday at 9:00AM. Also submit 200 words about your individual contribution to the week's work.
 * This might involve uploading your work to [Dataverse](https://dataverse.lib.virginia.edu/), sharing back with the groups who own your data, or deciding not to distribute. If you have concerns, talk to Brandon. 
