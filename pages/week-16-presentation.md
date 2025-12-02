@@ -29,3 +29,4 @@ The resulting work will probably be around 5-7 pages altogether, and you have mi
 * Celebrate!
 * Upload to Canvas an individual 200 word reflection on your group presentation, your finalized dataset, and your data narrative.
 * Make sure you have your final project narrative and dataset uploaded to Canvas by the end of the week if possible.
+* Now is also a good time to make sure you have all your individual assignments uploaded to canvas. Our exam period is Tuesday, December 16th from 2:00PM-5:00PM, so they must be uploaded by that time for you to receive credit.
